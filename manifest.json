@@ -1,0 +1,32 @@
+{
+  "name": "Hide reactions for facebook",
+  "description" : "It's annoy that seeing the unnecessary reaction. Remove it and display like only.",
+  "version": "2.0",
+  "browser_action": {
+    "default_icon": "icon16.png"
+  },
+  "manifest_version": 2,
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "MacCtrl+Shift+F"
+      },
+      "description": "Opens hello.html"
+    }
+  },
+    "permissions": [
+      "webNavigation",
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://*.facebook.com/*"],
+      "run_at": "document_idle",
+      "js": ["background.js"]
+    }
+  ],
+  "icons": { "16": "icon16.png",
+    "48": "icon48.png",
+   "128": "icon128.png" }
+}
