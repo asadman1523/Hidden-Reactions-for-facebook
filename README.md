@@ -1,6 +1,6 @@
 It's annoy that seeing the unnecessary reaction. Remove it and display like only.
 
-Copyright (c) $today.year. Jack Wu <dm3352andy@gmail.com>
+Copyright (c) 2018. Jack Wu <dm3352andy@gmail.com>
 
 ## License
 
