@@ -1,0 +1,22 @@
+body{
+    width: 400px;
+    height:300px;
+}
+img{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.form-control-file, .form-control-range {
+    display: inline;
+    width: 300px;
+}
+
+span, input {
+    width: 40px;
+}
+
+button, span, h4 {
+    margin: 10px;
+}
