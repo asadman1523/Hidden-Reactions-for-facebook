@@ -1,4 +1,5 @@
-var reactionArray = document.getElementsByClassName('_3t54');
+
+
 var html_tag_id='data-testid';
 var html_tag_id2='reaction';
 
@@ -17,12 +18,14 @@ chrome.storage.sync.get(array2, function(callback) {
 
 
 function removeReaction() {
+var reactionArray = document.getElementsByClassName('_3t54');
     //外層toolbar
     for(var i=0;i<reactionArray.length;i++) {
         var toolbar = reactionArray[i];
             for(var j=0;j<toolbar.childElementCount;j++) {
                 //每個表情
-                // console.log(toolbar.children[j]);
+               //  console.log(toolbar.children[j]);
+			  // console.log(toolbar.children[j].getAttribute(html_tag_id));
                 if(toolbar.children[j]!==null && 
                     toolbar.children[j].getAttribute(html_tag_id)!=null && 
                     toolbar.children[j].getAttribute(html_tag_id)!='ufi_bling_token_1' &&
@@ -83,6 +86,35 @@ function removeReaction() {
                                 j--;
                             }
                         break;
+                    }
+                
+                }
+            }
+        }
+		
+		
+		//2019/05/21
+var reactionArray2 = document.getElementsByClassName('_1n9r _66lh');
+   //外層toolbar
+    for(var i=0;i<reactionArray2.length;i++) {
+        var toolbar = reactionArray2[i];
+            for(var j=0;j<toolbar.childElementCount;j++) {
+                //每個表情
+               //  console.log(toolbar.children[j]);
+			  // console.log(toolbar.children[j].getAttribute(html_tag_id));
+                if(toolbar.children[j]!==null && 
+                    toolbar.children[j].getAttribute(html_tag_id)!=null
+                ) {
+					console.log(toolbar.children[j].getAttribute(html_tag_id));
+                    switch(toolbar.children[j].getAttribute(html_tag_id)) {
+                        case 'UFI2TopReactions/tooltip_WOW':
+						case 'UFI2TopReactions/tooltip_ANGER':
+						case 'UFI2TopReactions/tooltip_LOVE':
+						case 'UFI2TopReactions/tooltip_HAHA':
+						case 'UFI2TopReactions/tooltip_SORRY':
+						console.log("delete");
+							toolbar.children[j].remove();
+						break;
                     }
                 
                 }
