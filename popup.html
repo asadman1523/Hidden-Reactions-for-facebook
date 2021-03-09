@@ -2,42 +2,20 @@
   <html>
     <head>
       <title>Popup</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/bootstrap-slider.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/custom.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     </head>
     <body>
-      <h4>Display reaction when its number over...</h4>
-        <div>
-            <img  src="reactions/r2.png" alt="Italian Trulli">
-            <span id="ex2SliderVal">10000</span>
-            <input id="ex2" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10000" data-slider-step="50" data-slider-value="10000" data-slider-tooltip="hide"/>
-        </div>
-        <div>
-            <img  src="reactions/r3.png" alt="Italian Trulli">
-            <span id="ex3SliderVal">10000</span>
-            <input id="ex3" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10000" data-slider-step="50" data-slider-value="10000" data-slider-tooltip="hide"/>
-        </div>
-        <div>
-            <img  src="reactions/r4.png" alt="Italian Trulli">
-            <span id="ex4SliderVal">10000</span>
-            <input id="ex4" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10000" data-slider-step="50" data-slider-value="10000" data-slider-tooltip="hide"/>
-        </div>
-        <div>
-            <img  src="reactions/r5.png" alt="Italian Trulli">
-            <span id="ex5SliderVal">10000</span>
-            <input id="ex5" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10000" data-slider-step="50" data-slider-value="10000" data-slider-tooltip="hide"/>
-        </div>
-        <div>
-            <img  src="reactions/r6.png" alt="Italian Trulli">
-            <span id="ex6SliderVal">10000</span>
-            <input id="ex6" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10000" data-slider-step="50" data-slider-value="10000" data-slider-tooltip="hide"/>
-        </div>
-        <button type="button" class="btn btn-success" id="applyBtn">Apply</button>
-        <script src="js/bootstrap-slider.min.js"></script>
-        <script src="js/jquery-3.3.1.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
+      <h2>Choose a default behavior</h2>
+      <select id="HidingOptions">
+        <option value="0">Hide all reactions</option>
+        <option value="1">Show the most popular reaction</option>
+        <option value="2">Disable</option>
+      </select>
+      <br></br>
+      <button id="save">Save</button>
+      <div id="status"></div>
+
         <script src="js/custom.js"></script>
       	</body>
   </html>
