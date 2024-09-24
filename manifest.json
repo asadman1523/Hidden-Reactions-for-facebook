@@ -1,7 +1,7 @@
 {
   "name": "Hide reactions for facebook",
   "description" : "It's annoy that seeing the unnecessary reaction. Remove it and display like only.",
-  "version": "6.0",
+  "version": "8.1",
   "browser_action": {
     "default_icon": "icon16.png",
     "default_popup": "popup.html"
@@ -11,7 +11,6 @@
 
   },
     "permissions": [
-    "webNavigation",
     "activeTab",
     "storage"
   ],
