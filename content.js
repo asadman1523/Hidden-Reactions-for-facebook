@@ -376,6 +376,56 @@
     return [];
   }
 
+  function getHiddenReactionTargets(root, hiddenImages) {
+    const hiddenImageSet = new Set(hiddenImages);
+    const hiddenCandidates = new Set();
+
+    function containsReactionCount(element) {
+      return [element, ...element.querySelectorAll("*")].some((descendant) => {
+        return Array.from(descendant.childNodes).some((node) => {
+          return node.nodeType === Node.TEXT_NODE && COUNT_TEXT_PATTERN.test(node.textContent || "");
+        });
+      });
+    }
+
+    hiddenImages.forEach((image) => {
+      let target = image;
+      let ancestor = image.parentElement;
+
+      while (ancestor && ancestor !== root) {
+        const reactionVisuals = getReactionVisuals(ancestor);
+        const containsVisibleReaction = reactionVisuals.some(
+          (reactionVisual) => !hiddenImageSet.has(reactionVisual),
+        );
+
+        if (
+          reactionVisuals.length === 0 ||
+          containsVisibleReaction ||
+          containsReactionCount(ancestor)
+        ) {
+          break;
+        }
+
+        target = ancestor;
+        ancestor = ancestor.parentElement;
+      }
+
+      hiddenCandidates.add(target);
+    });
+
+    return Array.from(hiddenCandidates).filter((candidate) => {
+      return !Array.from(hiddenCandidates).some(
+        (otherCandidate) => otherCandidate !== candidate && otherCandidate.contains(candidate),
+      );
+    });
+  }
+
+  function hideReactionVisuals(root, hiddenImages) {
+    getHiddenReactionTargets(root, hiddenImages).forEach((target) => {
+      target.classList.add(HIDDEN_ITEM_CLASS);
+    });
+  }
+
   function scheduleStatsFlush(delay = 400) {
     if (statsFlushTimer !== null || activeStatsOperation !== null) {
       return;
@@ -658,7 +708,7 @@
     rememberReactionSources(toolbar);
 
     const hiddenImages = getHiddenReactionVisuals(toolbar);
-    hiddenImages.forEach((image) => image.classList.add(HIDDEN_ITEM_CLASS));
+    hideReactionVisuals(toolbar, hiddenImages);
     recordHiddenReactionImages(hiddenImages);
   }
 
@@ -668,7 +718,7 @@
     rememberReactionSources(summary);
 
     const hiddenImages = getHiddenReactionVisuals(summary);
-    hiddenImages.forEach((image) => image.classList.add(HIDDEN_ITEM_CLASS));
+    hideReactionVisuals(summary, hiddenImages);
     recordHiddenReactionImages(hiddenImages);
   }
 
