@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebook ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಮರೆಮಾಡಿ"
+  },
+  "extensionDescription": {
+    "message": "Facebook ಪೋಸ್ಟ್‌ಗಳು, ಕಾಮೆಂಟ್‌ಗಳು ಮತ್ತು ಪ್ರತ್ಯುತ್ತರಗಳಲ್ಲಿನ ಪ್ರತಿಕ್ರಿಯೆ ಐಕಾನ್‌ಗಳನ್ನು ಮರೆಮಾಡುತ್ತದೆ."
+  },
+  "popupTitle": {
+    "message": "Facebook ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಮರೆಮಾಡಿ"
+  },
+  "heading": {
+    "message": "Facebook ಪ್ರತಿಕ್ರಿಯೆ ಪ್ರದರ್ಶನ"
+  },
+  "scopeDescription": {
+    "message": "ಈ ಸೆಟ್ಟಿಂಗ್ ಪೋಸ್ಟ್‌ಗಳು, ಕಾಮೆಂಟ್‌ಗಳು ಮತ್ತು ಪ್ರತ್ಯುತ್ತರಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ."
+  },
+  "statsHeading": {
+    "message": "ಎಣಿಕೆ ಆರಂಭವಾದ ನಂತರ ಮರೆಮಾಡಿದವು"
+  },
+  "countUnit": {
+    "message": "ಐಕಾನ್‌ಗಳು"
+  },
+  "statsLoading": {
+    "message": "ಒಟ್ಟು ಅಂಕಿಅಂಶಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ…"
+  },
+  "modeLabel": {
+    "message": "ಪ್ರದರ್ಶನ ಮೋಡ್"
+  },
+  "modeLikeOnly": {
+    "message": "ಲೈಕ್ ಮಾತ್ರ ತೋರಿಸಿ (ಡೀಫಾಲ್ಟ್)"
+  },
+  "modeShowOne": {
+    "message": "ಅತ್ಯಂತ ಜನಪ್ರಿಯ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ತೋರಿಸಿ"
+  },
+  "modeHideAll": {
+    "message": "ಎಲ್ಲಾ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಮರೆಮಾಡಿ"
+  },
+  "modeDisabled": {
+    "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "saveButton": {
+    "message": "ಉಳಿಸಿ"
+  },
+  "statsEmpty": {
+    "message": "ಇನ್ನೂ ಯಾವುದೇ ಪ್ರತಿಕ್ರಿಯೆ ಐಕಾನ್ ಮರೆಮಾಡಲಾಗಿಲ್ಲ."
+  },
+  "statsReadError": {
+    "message": "ಸಿಂಕ್ ಮಾಡಿದ ಅಂಕಿಅಂಶಗಳನ್ನು ಓದಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+  },
+  "settingsReadError": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಓದಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಡೀಫಾಲ್ಟ್ ಬಳಸಲಾಗುತ್ತದೆ."
+  },
+  "invalidMode": {
+    "message": "ಆಯ್ಕೆಮಾಡಿದ ಮೋಡ್ ಅಮಾನ್ಯವಾಗಿದೆ."
+  },
+  "saveSuccess": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಉಳಿಸಿ ತಕ್ಷಣ ಅನ್ವಯಿಸಲಾಗಿದೆ."
+  },
+  "saveError": {
+    "message": "ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "reactionLike": {
+    "message": "ಲೈಕ್"
+  },
+  "reactionLove": {
+    "message": "ಲವ್"
+  },
+  "reactionCare": {
+    "message": "ಕೇರ್"
+  },
+  "reactionHaha": {
+    "message": "ಹಾಹಾ"
+  },
+  "reactionWow": {
+    "message": "ವಾವ್"
+  },
+  "reactionSad": {
+    "message": "ದುಃಖ"
+  },
+  "reactionAngry": {
+    "message": "ಕೋಪ"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "GitHub ನಲ್ಲಿ ಈ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸ್ಟಾರ್ ನೀಡಿ"
+  }
+}

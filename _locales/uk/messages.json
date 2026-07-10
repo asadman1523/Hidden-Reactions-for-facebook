@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Приховати реакції Facebook"
+  },
+  "extensionDescription": {
+    "message": "Приховує значки реакцій у дописах, коментарях і відповідях Facebook."
+  },
+  "popupTitle": {
+    "message": "Приховати реакції Facebook"
+  },
+  "heading": {
+    "message": "Відображення реакцій Facebook"
+  },
+  "scopeDescription": {
+    "message": "Налаштування застосовується до дописів, коментарів і відповідей."
+  },
+  "statsHeading": {
+    "message": "Приховано від початку підрахунку"
+  },
+  "countUnit": {
+    "message": "значків"
+  },
+  "statsLoading": {
+    "message": "Завантаження накопиченої статистики…"
+  },
+  "modeLabel": {
+    "message": "Режим відображення"
+  },
+  "modeLikeOnly": {
+    "message": "Показувати лише «Подобається» (типово)"
+  },
+  "modeShowOne": {
+    "message": "Показувати найпопулярнішу реакцію"
+  },
+  "modeHideAll": {
+    "message": "Приховати всі реакції"
+  },
+  "modeDisabled": {
+    "message": "Вимкнути"
+  },
+  "saveButton": {
+    "message": "Зберегти"
+  },
+  "statsEmpty": {
+    "message": "Ще не приховано жодного значка реакції."
+  },
+  "statsReadError": {
+    "message": "Не вдалося прочитати синхронізовану статистику."
+  },
+  "settingsReadError": {
+    "message": "Не вдалося прочитати налаштування. Використано типове значення."
+  },
+  "invalidMode": {
+    "message": "Вибраний режим недійсний."
+  },
+  "saveSuccess": {
+    "message": "Налаштування збережено й застосовано."
+  },
+  "saveError": {
+    "message": "Не вдалося зберегти. Спробуйте пізніше."
+  },
+  "reactionLike": {
+    "message": "Подобається"
+  },
+  "reactionLove": {
+    "message": "Супер"
+  },
+  "reactionCare": {
+    "message": "Турбота"
+  },
+  "reactionHaha": {
+    "message": "Ха-ха"
+  },
+  "reactionWow": {
+    "message": "Овва"
+  },
+  "reactionSad": {
+    "message": "Сумно"
+  },
+  "reactionAngry": {
+    "message": "Злість"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Поставте зірку цьому проєкту на GitHub"
+  }
+}

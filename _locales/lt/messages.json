@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Slėpti „Facebook“ reakcijas"
+  },
+  "extensionDescription": {
+    "message": "Slepia reakcijų piktogramas „Facebook“ įrašuose, komentaruose ir atsakymuose."
+  },
+  "popupTitle": {
+    "message": "Slėpti „Facebook“ reakcijas"
+  },
+  "heading": {
+    "message": "„Facebook“ reakcijų rodymas"
+  },
+  "scopeDescription": {
+    "message": "Šis nustatymas taikomas įrašams, komentarams ir atsakymams."
+  },
+  "statsHeading": {
+    "message": "Paslėpta nuo skaičiavimo pradžios"
+  },
+  "countUnit": {
+    "message": "piktogramų"
+  },
+  "statsLoading": {
+    "message": "Įkeliama sukaupta statistika…"
+  },
+  "modeLabel": {
+    "message": "Rodymo režimas"
+  },
+  "modeLikeOnly": {
+    "message": "Rodyti tik Patinka (numatyta)"
+  },
+  "modeShowOne": {
+    "message": "Rodyti populiariausią reakciją"
+  },
+  "modeHideAll": {
+    "message": "Slėpti visas reakcijas"
+  },
+  "modeDisabled": {
+    "message": "Išjungti"
+  },
+  "saveButton": {
+    "message": "Išsaugoti"
+  },
+  "statsEmpty": {
+    "message": "Dar nepaslėpta nė viena reakcijos piktograma."
+  },
+  "statsReadError": {
+    "message": "Nepavyko perskaityti sinchronizuotos statistikos."
+  },
+  "settingsReadError": {
+    "message": "Nepavyko perskaityti nustatymų. Naudojama numatytoji reikšmė."
+  },
+  "invalidMode": {
+    "message": "Pasirinktas režimas netinkamas."
+  },
+  "saveSuccess": {
+    "message": "Nustatymai išsaugoti ir iškart pritaikyti."
+  },
+  "saveError": {
+    "message": "Nepavyko išsaugoti. Bandykite dar kartą vėliau."
+  },
+  "reactionLike": {
+    "message": "Patinka"
+  },
+  "reactionLove": {
+    "message": "Myliu"
+  },
+  "reactionCare": {
+    "message": "Rūpi"
+  },
+  "reactionHaha": {
+    "message": "Cha cha"
+  },
+  "reactionWow": {
+    "message": "Oho"
+  },
+  "reactionSad": {
+    "message": "Liūdna"
+  },
+  "reactionAngry": {
+    "message": "Pikta"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Pažymėkite šį projektą žvaigždute GitHub"
+  }
+}

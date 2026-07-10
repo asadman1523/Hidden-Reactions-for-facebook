@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Hide reactions for Facebook"
+  },
+  "extensionDescription": {
+    "message": "Hide reaction icons on Facebook posts, comments, and replies."
+  },
+  "popupTitle": {
+    "message": "Hide reactions for Facebook"
+  },
+  "heading": {
+    "message": "Facebook reaction display"
+  },
+  "scopeDescription": {
+    "message": "This setting applies to posts, comments, and replies."
+  },
+  "statsHeading": {
+    "message": "Hidden since tracking started"
+  },
+  "countUnit": {
+    "message": "icons"
+  },
+  "statsLoading": {
+    "message": "Loading cumulative statistics…"
+  },
+  "modeLabel": {
+    "message": "Display mode"
+  },
+  "modeLikeOnly": {
+    "message": "Show Like only (default)"
+  },
+  "modeShowOne": {
+    "message": "Show the most popular reaction"
+  },
+  "modeHideAll": {
+    "message": "Hide all reactions"
+  },
+  "modeDisabled": {
+    "message": "Disable"
+  },
+  "saveButton": {
+    "message": "Save"
+  },
+  "statsEmpty": {
+    "message": "No reaction icons have been hidden yet."
+  },
+  "statsReadError": {
+    "message": "Unable to read synchronized statistics."
+  },
+  "settingsReadError": {
+    "message": "Unable to read settings. The default is being used."
+  },
+  "invalidMode": {
+    "message": "The selected mode is invalid."
+  },
+  "saveSuccess": {
+    "message": "Settings saved and applied immediately."
+  },
+  "saveError": {
+    "message": "Unable to save. Please try again later."
+  },
+  "reactionLike": {
+    "message": "Like"
+  },
+  "reactionLove": {
+    "message": "Love"
+  },
+  "reactionCare": {
+    "message": "Care"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Sad"
+  },
+  "reactionAngry": {
+    "message": "Angry"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Star this project on GitHub"
+  }
+}

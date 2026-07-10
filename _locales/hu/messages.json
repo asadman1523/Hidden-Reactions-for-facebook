@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebook-reakciók elrejtése"
+  },
+  "extensionDescription": {
+    "message": "Elrejti a reakcióikonokat a Facebook-bejegyzésekben, hozzászólásokban és válaszokban."
+  },
+  "popupTitle": {
+    "message": "Facebook-reakciók elrejtése"
+  },
+  "heading": {
+    "message": "Facebook-reakciók megjelenítése"
+  },
+  "scopeDescription": {
+    "message": "Ez a beállítás a bejegyzésekre, hozzászólásokra és válaszokra vonatkozik."
+  },
+  "statsHeading": {
+    "message": "Elrejtve a számlálás kezdete óta"
+  },
+  "countUnit": {
+    "message": "ikon"
+  },
+  "statsLoading": {
+    "message": "Összesített statisztika betöltése…"
+  },
+  "modeLabel": {
+    "message": "Megjelenítési mód"
+  },
+  "modeLikeOnly": {
+    "message": "Csak a Tetszik megjelenítése (alapértelmezett)"
+  },
+  "modeShowOne": {
+    "message": "A legnépszerűbb reakció megjelenítése"
+  },
+  "modeHideAll": {
+    "message": "Minden reakció elrejtése"
+  },
+  "modeDisabled": {
+    "message": "Letiltás"
+  },
+  "saveButton": {
+    "message": "Mentés"
+  },
+  "statsEmpty": {
+    "message": "Még egyetlen reakcióikon sincs elrejtve."
+  },
+  "statsReadError": {
+    "message": "A szinkronizált statisztika nem olvasható."
+  },
+  "settingsReadError": {
+    "message": "A beállítások nem olvashatók. Az alapértelmezett érték lesz használva."
+  },
+  "invalidMode": {
+    "message": "A kiválasztott mód érvénytelen."
+  },
+  "saveSuccess": {
+    "message": "A beállítások mentve és azonnal alkalmazva."
+  },
+  "saveError": {
+    "message": "A mentés nem sikerült. Próbálja újra később."
+  },
+  "reactionLike": {
+    "message": "Tetszik"
+  },
+  "reactionLove": {
+    "message": "Imádom"
+  },
+  "reactionCare": {
+    "message": "Törődés"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Hűha"
+  },
+  "reactionSad": {
+    "message": "Szomorú"
+  },
+  "reactionAngry": {
+    "message": "Dühös"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Adj csillagot a projektnek a GitHubon"
+  }
+}

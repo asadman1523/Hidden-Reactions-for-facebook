@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Skjul Facebook-reaksjoner"
+  },
+  "extensionDescription": {
+    "message": "Skjuler reaksjonsikoner i Facebook-innlegg, kommentarer og svar."
+  },
+  "popupTitle": {
+    "message": "Skjul Facebook-reaksjoner"
+  },
+  "heading": {
+    "message": "Visning av Facebook-reaksjoner"
+  },
+  "scopeDescription": {
+    "message": "Denne innstillingen gjelder innlegg, kommentarer og svar."
+  },
+  "statsHeading": {
+    "message": "Skjult siden tellingen startet"
+  },
+  "countUnit": {
+    "message": "ikoner"
+  },
+  "statsLoading": {
+    "message": "Laster samlet statistikk…"
+  },
+  "modeLabel": {
+    "message": "Visningsmodus"
+  },
+  "modeLikeOnly": {
+    "message": "Vis bare Liker (standard)"
+  },
+  "modeShowOne": {
+    "message": "Vis den mest populære reaksjonen"
+  },
+  "modeHideAll": {
+    "message": "Skjul alle reaksjoner"
+  },
+  "modeDisabled": {
+    "message": "Deaktiver"
+  },
+  "saveButton": {
+    "message": "Lagre"
+  },
+  "statsEmpty": {
+    "message": "Ingen reaksjonsikoner er skjult ennå."
+  },
+  "statsReadError": {
+    "message": "Kan ikke lese synkronisert statistikk."
+  },
+  "settingsReadError": {
+    "message": "Kan ikke lese innstillingene. Standardverdien brukes."
+  },
+  "invalidMode": {
+    "message": "Den valgte modusen er ugyldig."
+  },
+  "saveSuccess": {
+    "message": "Innstillingene er lagret og tatt i bruk."
+  },
+  "saveError": {
+    "message": "Kunne ikke lagre. Prøv igjen senere."
+  },
+  "reactionLike": {
+    "message": "Liker"
+  },
+  "reactionLove": {
+    "message": "Elsker"
+  },
+  "reactionCare": {
+    "message": "Omsorg"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Trist"
+  },
+  "reactionAngry": {
+    "message": "Sint"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Gi dette prosjektet en stjerne på GitHub"
+  }
+}

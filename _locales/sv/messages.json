@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Dölj Facebook-reaktioner"
+  },
+  "extensionDescription": {
+    "message": "Döljer reaktionsikoner i Facebook-inlägg, kommentarer och svar."
+  },
+  "popupTitle": {
+    "message": "Dölj Facebook-reaktioner"
+  },
+  "heading": {
+    "message": "Visning av Facebook-reaktioner"
+  },
+  "scopeDescription": {
+    "message": "Inställningen gäller för inlägg, kommentarer och svar."
+  },
+  "statsHeading": {
+    "message": "Dolda sedan räkningen började"
+  },
+  "countUnit": {
+    "message": "ikoner"
+  },
+  "statsLoading": {
+    "message": "Läser in sammanlagd statistik…"
+  },
+  "modeLabel": {
+    "message": "Visningsläge"
+  },
+  "modeLikeOnly": {
+    "message": "Visa endast Gilla (standard)"
+  },
+  "modeShowOne": {
+    "message": "Visa den populäraste reaktionen"
+  },
+  "modeHideAll": {
+    "message": "Dölj alla reaktioner"
+  },
+  "modeDisabled": {
+    "message": "Inaktivera"
+  },
+  "saveButton": {
+    "message": "Spara"
+  },
+  "statsEmpty": {
+    "message": "Inga reaktionsikoner har dolts ännu."
+  },
+  "statsReadError": {
+    "message": "Det gick inte att läsa synkroniserad statistik."
+  },
+  "settingsReadError": {
+    "message": "Det gick inte att läsa inställningarna. Standardvärdet används."
+  },
+  "invalidMode": {
+    "message": "Det valda läget är ogiltigt."
+  },
+  "saveSuccess": {
+    "message": "Inställningarna sparades och tillämpades direkt."
+  },
+  "saveError": {
+    "message": "Det gick inte att spara. Försök igen senare."
+  },
+  "reactionLike": {
+    "message": "Gilla"
+  },
+  "reactionLove": {
+    "message": "Älskar"
+  },
+  "reactionCare": {
+    "message": "Omtanke"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Ledsen"
+  },
+  "reactionAngry": {
+    "message": "Arg"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Ge projektet en stjärna på GitHub"
+  }
+}

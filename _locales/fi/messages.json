@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Piilota Facebook-reaktiot"
+  },
+  "extensionDescription": {
+    "message": "Piilottaa reaktiokuvakkeet Facebook-julkaisuista, kommenteista ja vastauksista."
+  },
+  "popupTitle": {
+    "message": "Piilota Facebook-reaktiot"
+  },
+  "heading": {
+    "message": "Facebook-reaktioiden näyttö"
+  },
+  "scopeDescription": {
+    "message": "Asetus koskee julkaisuja, kommentteja ja vastauksia."
+  },
+  "statsHeading": {
+    "message": "Piilotettu seurannan alusta"
+  },
+  "countUnit": {
+    "message": "kuvaketta"
+  },
+  "statsLoading": {
+    "message": "Kumulatiivisia tilastoja ladataan…"
+  },
+  "modeLabel": {
+    "message": "Näyttötila"
+  },
+  "modeLikeOnly": {
+    "message": "Näytä vain Tykkää (oletus)"
+  },
+  "modeShowOne": {
+    "message": "Näytä suosituin reaktio"
+  },
+  "modeHideAll": {
+    "message": "Piilota kaikki reaktiot"
+  },
+  "modeDisabled": {
+    "message": "Poista käytöstä"
+  },
+  "saveButton": {
+    "message": "Tallenna"
+  },
+  "statsEmpty": {
+    "message": "Yhtään reaktiokuvaketta ei ole vielä piilotettu."
+  },
+  "statsReadError": {
+    "message": "Synkronoituja tilastoja ei voi lukea."
+  },
+  "settingsReadError": {
+    "message": "Asetuksia ei voi lukea. Käytetään oletusarvoa."
+  },
+  "invalidMode": {
+    "message": "Valittu tila ei kelpaa."
+  },
+  "saveSuccess": {
+    "message": "Asetukset tallennettiin ja otettiin heti käyttöön."
+  },
+  "saveError": {
+    "message": "Tallennus epäonnistui. Yritä myöhemmin uudelleen."
+  },
+  "reactionLike": {
+    "message": "Tykkää"
+  },
+  "reactionLove": {
+    "message": "Rakastan"
+  },
+  "reactionCare": {
+    "message": "Välitän"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Vau"
+  },
+  "reactionSad": {
+    "message": "Surullinen"
+  },
+  "reactionAngry": {
+    "message": "Vihainen"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Anna projektille tähti GitHubissa"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "پنهان‌کردن واکنش‌های فیسبوک"
+  },
+  "extensionDescription": {
+    "message": "نمادهای واکنش را در پست‌ها، نظرها و پاسخ‌های فیسبوک پنهان می‌کند."
+  },
+  "popupTitle": {
+    "message": "پنهان‌کردن واکنش‌های فیسبوک"
+  },
+  "heading": {
+    "message": "نمایش واکنش‌های فیسبوک"
+  },
+  "scopeDescription": {
+    "message": "این تنظیم برای پست‌ها، نظرها و پاسخ‌ها اعمال می‌شود."
+  },
+  "statsHeading": {
+    "message": "پنهان‌شده از آغاز شمارش"
+  },
+  "countUnit": {
+    "message": "نماد"
+  },
+  "statsLoading": {
+    "message": "در حال بارگیری آمار تجمعی…"
+  },
+  "modeLabel": {
+    "message": "حالت نمایش"
+  },
+  "modeLikeOnly": {
+    "message": "فقط پسندیدن نمایش داده شود (پیش‌فرض)"
+  },
+  "modeShowOne": {
+    "message": "محبوب‌ترین واکنش نمایش داده شود"
+  },
+  "modeHideAll": {
+    "message": "همه واکنش‌ها پنهان شوند"
+  },
+  "modeDisabled": {
+    "message": "غیرفعال"
+  },
+  "saveButton": {
+    "message": "ذخیره"
+  },
+  "statsEmpty": {
+    "message": "هنوز هیچ نماد واکنشی پنهان نشده است."
+  },
+  "statsReadError": {
+    "message": "خواندن آمار همگام‌شده ممکن نیست."
+  },
+  "settingsReadError": {
+    "message": "خواندن تنظیمات ممکن نیست. مقدار پیش‌فرض استفاده می‌شود."
+  },
+  "invalidMode": {
+    "message": "حالت انتخاب‌شده نامعتبر است."
+  },
+  "saveSuccess": {
+    "message": "تنظیمات ذخیره و فوراً اعمال شد."
+  },
+  "saveError": {
+    "message": "ذخیره نشد. بعداً دوباره تلاش کنید."
+  },
+  "reactionLike": {
+    "message": "پسندیدن"
+  },
+  "reactionLove": {
+    "message": "عاشقشم"
+  },
+  "reactionCare": {
+    "message": "حمایت"
+  },
+  "reactionHaha": {
+    "message": "خنده"
+  },
+  "reactionWow": {
+    "message": "واو"
+  },
+  "reactionSad": {
+    "message": "ناراحت"
+  },
+  "reactionAngry": {
+    "message": "عصبانی"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "به این پروژه در GitHub ستاره بدهید"
+  }
+}

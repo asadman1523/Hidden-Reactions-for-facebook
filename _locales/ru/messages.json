@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Скрыть реакции Facebook"
+  },
+  "extensionDescription": {
+    "message": "Скрывает значки реакций в публикациях, комментариях и ответах Facebook."
+  },
+  "popupTitle": {
+    "message": "Скрыть реакции Facebook"
+  },
+  "heading": {
+    "message": "Отображение реакций Facebook"
+  },
+  "scopeDescription": {
+    "message": "Настройка применяется к публикациям, комментариям и ответам."
+  },
+  "statsHeading": {
+    "message": "Скрыто с начала подсчёта"
+  },
+  "countUnit": {
+    "message": "значков"
+  },
+  "statsLoading": {
+    "message": "Загрузка накопленной статистики…"
+  },
+  "modeLabel": {
+    "message": "Режим отображения"
+  },
+  "modeLikeOnly": {
+    "message": "Показывать только «Нравится» (по умолчанию)"
+  },
+  "modeShowOne": {
+    "message": "Показывать самую популярную реакцию"
+  },
+  "modeHideAll": {
+    "message": "Скрыть все реакции"
+  },
+  "modeDisabled": {
+    "message": "Отключить"
+  },
+  "saveButton": {
+    "message": "Сохранить"
+  },
+  "statsEmpty": {
+    "message": "Пока не скрыто ни одного значка реакции."
+  },
+  "statsReadError": {
+    "message": "Не удалось прочитать синхронизированную статистику."
+  },
+  "settingsReadError": {
+    "message": "Не удалось прочитать настройки. Используется значение по умолчанию."
+  },
+  "invalidMode": {
+    "message": "Выбран недопустимый режим."
+  },
+  "saveSuccess": {
+    "message": "Настройки сохранены и применены."
+  },
+  "saveError": {
+    "message": "Не удалось сохранить. Повторите попытку позже."
+  },
+  "reactionLike": {
+    "message": "Нравится"
+  },
+  "reactionLove": {
+    "message": "Супер"
+  },
+  "reactionCare": {
+    "message": "Забота"
+  },
+  "reactionHaha": {
+    "message": "Ха-ха"
+  },
+  "reactionWow": {
+    "message": "Ух ты"
+  },
+  "reactionSad": {
+    "message": "Сочувствую"
+  },
+  "reactionAngry": {
+    "message": "Возмутительно"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Поставьте звезду этому проекту на GitHub"
+  }
+}

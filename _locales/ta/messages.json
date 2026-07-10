@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebook எதிர்வினைகளை மறை"
+  },
+  "extensionDescription": {
+    "message": "Facebook இடுகைகள், கருத்துகள் மற்றும் பதில்களில் உள்ள எதிர்வினை சின்னங்களை மறைக்கிறது."
+  },
+  "popupTitle": {
+    "message": "Facebook எதிர்வினைகளை மறை"
+  },
+  "heading": {
+    "message": "Facebook எதிர்வினை காட்சி"
+  },
+  "scopeDescription": {
+    "message": "இந்த அமைப்பு இடுகைகள், கருத்துகள் மற்றும் பதில்களுக்கு பொருந்தும்."
+  },
+  "statsHeading": {
+    "message": "கண்காணிப்பு தொடங்கியதிலிருந்து மறைக்கப்பட்டவை"
+  },
+  "countUnit": {
+    "message": "சின்னங்கள்"
+  },
+  "statsLoading": {
+    "message": "மொத்த புள்ளிவிவரங்கள் ஏற்றப்படுகின்றன…"
+  },
+  "modeLabel": {
+    "message": "காட்சி முறை"
+  },
+  "modeLikeOnly": {
+    "message": "லைக் மட்டும் காட்டு (இயல்புநிலை)"
+  },
+  "modeShowOne": {
+    "message": "மிகவும் பிரபலமான எதிர்வினையைக் காட்டு"
+  },
+  "modeHideAll": {
+    "message": "அனைத்து எதிர்வினைகளையும் மறை"
+  },
+  "modeDisabled": {
+    "message": "முடக்கு"
+  },
+  "saveButton": {
+    "message": "சேமி"
+  },
+  "statsEmpty": {
+    "message": "இதுவரை எந்த எதிர்வினை சின்னமும் மறைக்கப்படவில்லை."
+  },
+  "statsReadError": {
+    "message": "ஒத்திசைக்கப்பட்ட புள்ளிவிவரங்களைப் படிக்க முடியவில்லை."
+  },
+  "settingsReadError": {
+    "message": "அமைப்புகளைப் படிக்க முடியவில்லை. இயல்புநிலை பயன்படுத்தப்படுகிறது."
+  },
+  "invalidMode": {
+    "message": "தேர்ந்தெடுக்கப்பட்ட முறை தவறானது."
+  },
+  "saveSuccess": {
+    "message": "அமைப்புகள் சேமிக்கப்பட்டு உடனடியாகப் பயன்படுத்தப்பட்டன."
+  },
+  "saveError": {
+    "message": "சேமிக்க முடியவில்லை. பின்னர் மீண்டும் முயலவும்."
+  },
+  "reactionLike": {
+    "message": "லைக்"
+  },
+  "reactionLove": {
+    "message": "லவ்"
+  },
+  "reactionCare": {
+    "message": "கேர்"
+  },
+  "reactionHaha": {
+    "message": "ஹாஹா"
+  },
+  "reactionWow": {
+    "message": "வாவ்"
+  },
+  "reactionSad": {
+    "message": "சோகம்"
+  },
+  "reactionAngry": {
+    "message": "கோபம்"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "GitHub-இல் இந்தத் திட்டத்திற்கு நட்சத்திரம் அளிக்கவும்"
+  }
+}

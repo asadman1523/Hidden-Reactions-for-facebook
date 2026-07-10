@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebook પ્રતિક્રિયાઓ છુપાવો"
+  },
+  "extensionDescription": {
+    "message": "Facebook પોસ્ટ, ટિપ્પણી અને જવાબોમાં પ્રતિક્રિયા આઇકન છુપાવે છે."
+  },
+  "popupTitle": {
+    "message": "Facebook પ્રતિક્રિયાઓ છુપાવો"
+  },
+  "heading": {
+    "message": "Facebook પ્રતિક્રિયા પ્રદર્શન"
+  },
+  "scopeDescription": {
+    "message": "આ સેટિંગ પોસ્ટ, ટિપ્પણી અને જવાબો પર લાગુ પડે છે."
+  },
+  "statsHeading": {
+    "message": "ગણતરી શરૂ થયા પછી છુપાવેલા"
+  },
+  "countUnit": {
+    "message": "આઇકન"
+  },
+  "statsLoading": {
+    "message": "સંચિત આંકડા લોડ થઈ રહ્યા છે…"
+  },
+  "modeLabel": {
+    "message": "પ્રદર્શન મોડ"
+  },
+  "modeLikeOnly": {
+    "message": "ફક્ત લાઇક બતાવો (ડિફૉલ્ટ)"
+  },
+  "modeShowOne": {
+    "message": "સૌથી લોકપ્રિય પ્રતિક્રિયા બતાવો"
+  },
+  "modeHideAll": {
+    "message": "બધી પ્રતિક્રિયાઓ છુપાવો"
+  },
+  "modeDisabled": {
+    "message": "બંધ કરો"
+  },
+  "saveButton": {
+    "message": "સાચવો"
+  },
+  "statsEmpty": {
+    "message": "હજુ સુધી કોઈ પ્રતિક્રિયા આઇકન છુપાવાયું નથી."
+  },
+  "statsReadError": {
+    "message": "સિંક થયેલા આંકડા વાંચી શકાયા નથી."
+  },
+  "settingsReadError": {
+    "message": "સેટિંગ વાંચી શકાયું નથી. ડિફૉલ્ટ વપરાશે."
+  },
+  "invalidMode": {
+    "message": "પસંદ કરેલો મોડ માન્ય નથી."
+  },
+  "saveSuccess": {
+    "message": "સેટિંગ સાચવીને તરત લાગુ કરવામાં આવ્યું."
+  },
+  "saveError": {
+    "message": "સાચવી શકાયું નથી. પછી ફરી પ્રયાસ કરો."
+  },
+  "reactionLike": {
+    "message": "લાઇક"
+  },
+  "reactionLove": {
+    "message": "લવ"
+  },
+  "reactionCare": {
+    "message": "કેર"
+  },
+  "reactionHaha": {
+    "message": "હાહા"
+  },
+  "reactionWow": {
+    "message": "વાહ"
+  },
+  "reactionSad": {
+    "message": "દુઃખી"
+  },
+  "reactionAngry": {
+    "message": "ગુસ્સો"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "GitHub પર આ પ્રોજેક્ટને સ્ટાર આપો"
+  }
+}

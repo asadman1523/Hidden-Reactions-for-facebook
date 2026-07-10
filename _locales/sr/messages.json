@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Сакриј Facebook реакције"
+  },
+  "extensionDescription": {
+    "message": "Сакрива иконе реакција у Facebook објавама, коментарима и одговорима."
+  },
+  "popupTitle": {
+    "message": "Сакриј Facebook реакције"
+  },
+  "heading": {
+    "message": "Приказ Facebook реакција"
+  },
+  "scopeDescription": {
+    "message": "Ово подешавање важи за објаве, коментаре и одговоре."
+  },
+  "statsHeading": {
+    "message": "Сакривено од почетка бројања"
+  },
+  "countUnit": {
+    "message": "икона"
+  },
+  "statsLoading": {
+    "message": "Учитавање збирне статистике…"
+  },
+  "modeLabel": {
+    "message": "Режим приказа"
+  },
+  "modeLikeOnly": {
+    "message": "Прикажи само Свиђа ми се (подразумевано)"
+  },
+  "modeShowOne": {
+    "message": "Прикажи најпопуларнију реакцију"
+  },
+  "modeHideAll": {
+    "message": "Сакриј све реакције"
+  },
+  "modeDisabled": {
+    "message": "Онемогући"
+  },
+  "saveButton": {
+    "message": "Сачувај"
+  },
+  "statsEmpty": {
+    "message": "Још није сакривена ниједна икона реакције."
+  },
+  "statsReadError": {
+    "message": "Није могуће прочитати синхронизовану статистику."
+  },
+  "settingsReadError": {
+    "message": "Није могуће прочитати подешавања. Користи се подразумевана вредност."
+  },
+  "invalidMode": {
+    "message": "Изабрани режим није важећи."
+  },
+  "saveSuccess": {
+    "message": "Подешавања су сачувана и одмах примењена."
+  },
+  "saveError": {
+    "message": "Чување није успело. Покушајте поново касније."
+  },
+  "reactionLike": {
+    "message": "Свиђа ми се"
+  },
+  "reactionLove": {
+    "message": "Сјајно"
+  },
+  "reactionCare": {
+    "message": "Подршка"
+  },
+  "reactionHaha": {
+    "message": "Хаха"
+  },
+  "reactionWow": {
+    "message": "Вау"
+  },
+  "reactionSad": {
+    "message": "Тужно"
+  },
+  "reactionAngry": {
+    "message": "Љуто"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Означите овај пројекат звездицом на GitHub-у"
+  }
+}

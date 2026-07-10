@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebook ifadelerini gizle"
+  },
+  "extensionDescription": {
+    "message": "Facebook gönderileri, yorumları ve yanıtlarındaki ifade simgelerini gizler."
+  },
+  "popupTitle": {
+    "message": "Facebook ifadelerini gizle"
+  },
+  "heading": {
+    "message": "Facebook ifade görünümü"
+  },
+  "scopeDescription": {
+    "message": "Bu ayar gönderilere, yorumlara ve yanıtlara uygulanır."
+  },
+  "statsHeading": {
+    "message": "Takip başladığından beri gizlenen"
+  },
+  "countUnit": {
+    "message": "simge"
+  },
+  "statsLoading": {
+    "message": "Toplam istatistikler yükleniyor…"
+  },
+  "modeLabel": {
+    "message": "Görüntüleme modu"
+  },
+  "modeLikeOnly": {
+    "message": "Yalnızca Beğen'i göster (varsayılan)"
+  },
+  "modeShowOne": {
+    "message": "En popüler ifadeyi göster"
+  },
+  "modeHideAll": {
+    "message": "Tüm ifadeleri gizle"
+  },
+  "modeDisabled": {
+    "message": "Devre dışı bırak"
+  },
+  "saveButton": {
+    "message": "Kaydet"
+  },
+  "statsEmpty": {
+    "message": "Henüz hiçbir ifade simgesi gizlenmedi."
+  },
+  "statsReadError": {
+    "message": "Senkronize istatistikler okunamadı."
+  },
+  "settingsReadError": {
+    "message": "Ayarlar okunamadı. Varsayılan değer kullanılıyor."
+  },
+  "invalidMode": {
+    "message": "Seçilen mod geçersiz."
+  },
+  "saveSuccess": {
+    "message": "Ayarlar kaydedildi ve hemen uygulandı."
+  },
+  "saveError": {
+    "message": "Kaydedilemedi. Lütfen daha sonra tekrar deneyin."
+  },
+  "reactionLike": {
+    "message": "Beğen"
+  },
+  "reactionLove": {
+    "message": "Muhteşem"
+  },
+  "reactionCare": {
+    "message": "Destek"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "İnanılmaz"
+  },
+  "reactionSad": {
+    "message": "Üzgün"
+  },
+  "reactionAngry": {
+    "message": "Kızgın"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Bu projeye GitHub'da yıldız verin"
+  }
+}

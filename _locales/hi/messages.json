@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebook प्रतिक्रियाएँ छिपाएँ"
+  },
+  "extensionDescription": {
+    "message": "Facebook पोस्ट, टिप्पणियों और जवाबों में प्रतिक्रिया आइकन छिपाएँ।"
+  },
+  "popupTitle": {
+    "message": "Facebook प्रतिक्रियाएँ छिपाएँ"
+  },
+  "heading": {
+    "message": "Facebook प्रतिक्रिया प्रदर्शन"
+  },
+  "scopeDescription": {
+    "message": "यह सेटिंग पोस्ट, टिप्पणियों और जवाबों पर लागू होती है।"
+  },
+  "statsHeading": {
+    "message": "ट्रैकिंग शुरू होने के बाद छिपाए गए"
+  },
+  "countUnit": {
+    "message": "आइकन"
+  },
+  "statsLoading": {
+    "message": "संचयी आँकड़े लोड हो रहे हैं…"
+  },
+  "modeLabel": {
+    "message": "प्रदर्शन मोड"
+  },
+  "modeLikeOnly": {
+    "message": "केवल पसंद दिखाएँ (डिफ़ॉल्ट)"
+  },
+  "modeShowOne": {
+    "message": "सबसे लोकप्रिय प्रतिक्रिया दिखाएँ"
+  },
+  "modeHideAll": {
+    "message": "सभी प्रतिक्रियाएँ छिपाएँ"
+  },
+  "modeDisabled": {
+    "message": "बंद करें"
+  },
+  "saveButton": {
+    "message": "सहेजें"
+  },
+  "statsEmpty": {
+    "message": "अभी तक कोई प्रतिक्रिया आइकन नहीं छिपाया गया है।"
+  },
+  "statsReadError": {
+    "message": "सिंक किए गए आँकड़े पढ़े नहीं जा सके।"
+  },
+  "settingsReadError": {
+    "message": "सेटिंग पढ़ी नहीं जा सकी। डिफ़ॉल्ट का उपयोग किया जा रहा है।"
+  },
+  "invalidMode": {
+    "message": "चुना गया मोड अमान्य है।"
+  },
+  "saveSuccess": {
+    "message": "सेटिंग सहेजी गई और तुरंत लागू हुई।"
+  },
+  "saveError": {
+    "message": "सहेजा नहीं जा सका। बाद में फिर प्रयास करें।"
+  },
+  "reactionLike": {
+    "message": "पसंद"
+  },
+  "reactionLove": {
+    "message": "बेहद पसंद"
+  },
+  "reactionCare": {
+    "message": "केयर"
+  },
+  "reactionHaha": {
+    "message": "हाहा"
+  },
+  "reactionWow": {
+    "message": "वाह"
+  },
+  "reactionSad": {
+    "message": "दुखी"
+  },
+  "reactionAngry": {
+    "message": "गुस्सा"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "GitHub पर इस प्रोजेक्ट को स्टार दें"
+  }
+}

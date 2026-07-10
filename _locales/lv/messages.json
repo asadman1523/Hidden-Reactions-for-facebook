@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Paslēpt Facebook reakcijas"
+  },
+  "extensionDescription": {
+    "message": "Paslēpj reakciju ikonas Facebook ierakstos, komentāros un atbildēs."
+  },
+  "popupTitle": {
+    "message": "Paslēpt Facebook reakcijas"
+  },
+  "heading": {
+    "message": "Facebook reakciju attēlojums"
+  },
+  "scopeDescription": {
+    "message": "Šis iestatījums attiecas uz ierakstiem, komentāriem un atbildēm."
+  },
+  "statsHeading": {
+    "message": "Paslēpts kopš uzskaites sākuma"
+  },
+  "countUnit": {
+    "message": "ikonas"
+  },
+  "statsLoading": {
+    "message": "Notiek kopējās statistikas ielāde…"
+  },
+  "modeLabel": {
+    "message": "Attēlojuma režīms"
+  },
+  "modeLikeOnly": {
+    "message": "Rādīt tikai Patīk (noklusējums)"
+  },
+  "modeShowOne": {
+    "message": "Rādīt populārāko reakciju"
+  },
+  "modeHideAll": {
+    "message": "Paslēpt visas reakcijas"
+  },
+  "modeDisabled": {
+    "message": "Atspējot"
+  },
+  "saveButton": {
+    "message": "Saglabāt"
+  },
+  "statsEmpty": {
+    "message": "Vēl nav paslēpta neviena reakcijas ikona."
+  },
+  "statsReadError": {
+    "message": "Nevar nolasīt sinhronizēto statistiku."
+  },
+  "settingsReadError": {
+    "message": "Nevar nolasīt iestatījumus. Tiek izmantota noklusējuma vērtība."
+  },
+  "invalidMode": {
+    "message": "Atlasītais režīms nav derīgs."
+  },
+  "saveSuccess": {
+    "message": "Iestatījumi saglabāti un uzreiz lietoti."
+  },
+  "saveError": {
+    "message": "Neizdevās saglabāt. Mēģiniet vēlreiz vēlāk."
+  },
+  "reactionLike": {
+    "message": "Patīk"
+  },
+  "reactionLove": {
+    "message": "Mīlu"
+  },
+  "reactionCare": {
+    "message": "Rūp"
+  },
+  "reactionHaha": {
+    "message": "Ha ha"
+  },
+  "reactionWow": {
+    "message": "Oho"
+  },
+  "reactionSad": {
+    "message": "Skumji"
+  },
+  "reactionAngry": {
+    "message": "Dusmīgs"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Atzīmējiet šo projektu ar zvaigzni GitHub"
+  }
+}

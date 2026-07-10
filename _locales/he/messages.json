@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "הסתרת תגובות בפייסבוק"
+  },
+  "extensionDescription": {
+    "message": "הסתרת סמלי תגובה בפוסטים, בתגובות ובתשובות בפייסבוק."
+  },
+  "popupTitle": {
+    "message": "הסתרת תגובות בפייסבוק"
+  },
+  "heading": {
+    "message": "תצוגת תגובות בפייסבוק"
+  },
+  "scopeDescription": {
+    "message": "הגדרה זו חלה על פוסטים, תגובות ותשובות."
+  },
+  "statsHeading": {
+    "message": "הוסתרו מאז תחילת המעקב"
+  },
+  "countUnit": {
+    "message": "סמלים"
+  },
+  "statsLoading": {
+    "message": "הסטטיסטיקה המצטברת נטענת…"
+  },
+  "modeLabel": {
+    "message": "מצב תצוגה"
+  },
+  "modeLikeOnly": {
+    "message": "הצגת לייק בלבד (ברירת מחדל)"
+  },
+  "modeShowOne": {
+    "message": "הצגת התגובה הפופולרית ביותר"
+  },
+  "modeHideAll": {
+    "message": "הסתרת כל התגובות"
+  },
+  "modeDisabled": {
+    "message": "השבתה"
+  },
+  "saveButton": {
+    "message": "שמירה"
+  },
+  "statsEmpty": {
+    "message": "עדיין לא הוסתרו סמלי תגובה."
+  },
+  "statsReadError": {
+    "message": "לא ניתן לקרוא את הסטטיסטיקה המסונכרנת."
+  },
+  "settingsReadError": {
+    "message": "לא ניתן לקרוא את ההגדרות. ייעשה שימוש בברירת המחדל."
+  },
+  "invalidMode": {
+    "message": "המצב שנבחר אינו תקין."
+  },
+  "saveSuccess": {
+    "message": "ההגדרות נשמרו והוחלו מיד."
+  },
+  "saveError": {
+    "message": "לא ניתן לשמור. יש לנסות שוב מאוחר יותר."
+  },
+  "reactionLike": {
+    "message": "לייק"
+  },
+  "reactionLove": {
+    "message": "אהבה"
+  },
+  "reactionCare": {
+    "message": "אכפת לי"
+  },
+  "reactionHaha": {
+    "message": "חחח"
+  },
+  "reactionWow": {
+    "message": "וואו"
+  },
+  "reactionSad": {
+    "message": "עצוב"
+  },
+  "reactionAngry": {
+    "message": "כועס"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "תנו כוכב לפרויקט הזה ב-GitHub"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Amaga les reaccions de Facebook"
+  },
+  "extensionDescription": {
+    "message": "Amaga les icones de reacció de les publicacions, els comentaris i les respostes de Facebook."
+  },
+  "popupTitle": {
+    "message": "Amaga les reaccions de Facebook"
+  },
+  "heading": {
+    "message": "Visualització de reaccions de Facebook"
+  },
+  "scopeDescription": {
+    "message": "Aquesta configuració s'aplica a publicacions, comentaris i respostes."
+  },
+  "statsHeading": {
+    "message": "Amagades des de l'inici del recompte"
+  },
+  "countUnit": {
+    "message": "icones"
+  },
+  "statsLoading": {
+    "message": "S'estan carregant les estadístiques acumulades…"
+  },
+  "modeLabel": {
+    "message": "Mode de visualització"
+  },
+  "modeLikeOnly": {
+    "message": "Mostra només M'agrada (predeterminat)"
+  },
+  "modeShowOne": {
+    "message": "Mostra la reacció més popular"
+  },
+  "modeHideAll": {
+    "message": "Amaga totes les reaccions"
+  },
+  "modeDisabled": {
+    "message": "Desactiva"
+  },
+  "saveButton": {
+    "message": "Desa"
+  },
+  "statsEmpty": {
+    "message": "Encara no s'ha amagat cap icona de reacció."
+  },
+  "statsReadError": {
+    "message": "No es poden llegir les estadístiques sincronitzades."
+  },
+  "settingsReadError": {
+    "message": "No es pot llegir la configuració. S'utilitza el valor predeterminat."
+  },
+  "invalidMode": {
+    "message": "El mode seleccionat no és vàlid."
+  },
+  "saveSuccess": {
+    "message": "Configuració desada i aplicada immediatament."
+  },
+  "saveError": {
+    "message": "No s'ha pogut desar. Torna-ho a provar més tard."
+  },
+  "reactionLike": {
+    "message": "M'agrada"
+  },
+  "reactionLove": {
+    "message": "M'encanta"
+  },
+  "reactionCare": {
+    "message": "M'importa"
+  },
+  "reactionHaha": {
+    "message": "Em diverteix"
+  },
+  "reactionWow": {
+    "message": "Em sorprèn"
+  },
+  "reactionSad": {
+    "message": "M'entristeix"
+  },
+  "reactionAngry": {
+    "message": "M'enfada"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Dona una estrella a aquest projecte a GitHub"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Nascondi le reazioni di Facebook"
+  },
+  "extensionDescription": {
+    "message": "Nasconde le icone delle reazioni nei post, commenti e risposte di Facebook."
+  },
+  "popupTitle": {
+    "message": "Nascondi le reazioni di Facebook"
+  },
+  "heading": {
+    "message": "Visualizzazione delle reazioni di Facebook"
+  },
+  "scopeDescription": {
+    "message": "Questa impostazione si applica a post, commenti e risposte."
+  },
+  "statsHeading": {
+    "message": "Nascoste dall’inizio del conteggio"
+  },
+  "countUnit": {
+    "message": "icone"
+  },
+  "statsLoading": {
+    "message": "Caricamento delle statistiche cumulative…"
+  },
+  "modeLabel": {
+    "message": "Modalità di visualizzazione"
+  },
+  "modeLikeOnly": {
+    "message": "Mostra solo Mi piace (predefinito)"
+  },
+  "modeShowOne": {
+    "message": "Mostra la reazione più popolare"
+  },
+  "modeHideAll": {
+    "message": "Nascondi tutte le reazioni"
+  },
+  "modeDisabled": {
+    "message": "Disattiva"
+  },
+  "saveButton": {
+    "message": "Salva"
+  },
+  "statsEmpty": {
+    "message": "Non è stata ancora nascosta alcuna icona di reazione."
+  },
+  "statsReadError": {
+    "message": "Impossibile leggere le statistiche sincronizzate."
+  },
+  "settingsReadError": {
+    "message": "Impossibile leggere le impostazioni. Verrà usato il valore predefinito."
+  },
+  "invalidMode": {
+    "message": "La modalità selezionata non è valida."
+  },
+  "saveSuccess": {
+    "message": "Impostazioni salvate e applicate immediatamente."
+  },
+  "saveError": {
+    "message": "Impossibile salvare. Riprova più tardi."
+  },
+  "reactionLike": {
+    "message": "Mi piace"
+  },
+  "reactionLove": {
+    "message": "Love"
+  },
+  "reactionCare": {
+    "message": "Ti sono vicino"
+  },
+  "reactionHaha": {
+    "message": "Ahah"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Sigh"
+  },
+  "reactionAngry": {
+    "message": "Grr"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Metti una stella a questo progetto su GitHub"
+  }
+}

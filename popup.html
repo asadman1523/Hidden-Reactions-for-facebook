@@ -1,21 +1,47 @@
 <!doctype html>
-  <html>
-    <head>
-      <title>Popup</title>
-    <link rel="stylesheet" href="css/custom.css" rel="stylesheet">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    </head>
-    <body>
-      <h2>Choose a default behavior</h2>
-      <select id="HidingOptions">
-        <option value="0">Hide all reactions</option>
-        <option value="1">Show the most popular reaction</option>
-        <option value="2">Disable</option>
-      </select>
-      <br></br>
-      <button id="save">Save</button>
-      <div id="status"></div>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hide reactions for Facebook</title>
+    <link rel="stylesheet" href="popup.css">
+  </head>
+  <body>
+    <main>
+      <div class="title-row">
+        <h1 data-i18n="heading">Facebook reaction display</h1>
+        <a
+          class="github-star"
+          href="https://github.com/asadman1523/Hidden-Reactions-for-facebook"
+          target="_blank"
+          rel="noopener noreferrer"
+          data-i18n="githubStarButton"
+          data-i18n-title="githubStarTitle"
+        >★ GitHub</a>
+      </div>
+      <p class="description" data-i18n="scopeDescription">This setting applies to posts, comments, and replies.</p>
 
-        <script src="js/custom.js"></script>
-      	</body>
-  </html>
+      <section class="stats-card" aria-labelledby="stats-heading">
+        <div class="stats-header">
+          <h2 id="stats-heading" data-i18n="statsHeading">Hidden since tracking started</h2>
+          <div class="stats-total"><strong id="hidden-total">—</strong><span data-i18n="countUnit">icons</span></div>
+        </div>
+        <ul id="reaction-stats" class="reaction-stats" hidden></ul>
+        <p id="stats-message" class="stats-message" data-i18n="statsLoading">Loading cumulative statistics…</p>
+      </section>
+
+      <label for="reaction-mode" data-i18n="modeLabel">Display mode</label>
+      <select id="reaction-mode">
+        <option value="like-only" data-i18n="modeLikeOnly">Show Like only (default)</option>
+        <option value="show-one" data-i18n="modeShowOne">Show the most popular reaction</option>
+        <option value="hide-all" data-i18n="modeHideAll">Hide all reactions</option>
+        <option value="disabled" data-i18n="modeDisabled">Disable</option>
+      </select>
+
+      <button id="save" type="button" disabled data-i18n="saveButton">Save</button>
+      <p id="status" role="status" aria-live="polite"></p>
+    </main>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

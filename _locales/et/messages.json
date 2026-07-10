@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Peida Facebooki reaktsioonid"
+  },
+  "extensionDescription": {
+    "message": "Peidab reaktsiooniikoonid Facebooki postitustes, kommentaarides ja vastustes."
+  },
+  "popupTitle": {
+    "message": "Peida Facebooki reaktsioonid"
+  },
+  "heading": {
+    "message": "Facebooki reaktsioonide kuvamine"
+  },
+  "scopeDescription": {
+    "message": "See säte rakendub postitustele, kommentaaridele ja vastustele."
+  },
+  "statsHeading": {
+    "message": "Peidetud alates loendamise algusest"
+  },
+  "countUnit": {
+    "message": "ikooni"
+  },
+  "statsLoading": {
+    "message": "Koondstatistika laadimine…"
+  },
+  "modeLabel": {
+    "message": "Kuvamisrežiim"
+  },
+  "modeLikeOnly": {
+    "message": "Kuva ainult Meeldib (vaikimisi)"
+  },
+  "modeShowOne": {
+    "message": "Kuva populaarseim reaktsioon"
+  },
+  "modeHideAll": {
+    "message": "Peida kõik reaktsioonid"
+  },
+  "modeDisabled": {
+    "message": "Keela"
+  },
+  "saveButton": {
+    "message": "Salvesta"
+  },
+  "statsEmpty": {
+    "message": "Ühtegi reaktsiooniikooni pole veel peidetud."
+  },
+  "statsReadError": {
+    "message": "Sünkroonitud statistikat ei saa lugeda."
+  },
+  "settingsReadError": {
+    "message": "Sätteid ei saa lugeda. Kasutatakse vaikeväärtust."
+  },
+  "invalidMode": {
+    "message": "Valitud režiim ei sobi."
+  },
+  "saveSuccess": {
+    "message": "Sätted salvestati ja rakendati kohe."
+  },
+  "saveError": {
+    "message": "Salvestamine nurjus. Proovige hiljem uuesti."
+  },
+  "reactionLike": {
+    "message": "Meeldib"
+  },
+  "reactionLove": {
+    "message": "Armastan"
+  },
+  "reactionCare": {
+    "message": "Hoolin"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Vau"
+  },
+  "reactionSad": {
+    "message": "Kurb"
+  },
+  "reactionAngry": {
+    "message": "Vihane"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Märgi projekt GitHubis tärniga"
+  }
+}

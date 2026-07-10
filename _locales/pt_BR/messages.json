@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Ocultar reações do Facebook"
+  },
+  "extensionDescription": {
+    "message": "Oculta os ícones de reação em publicações, comentários e respostas do Facebook."
+  },
+  "popupTitle": {
+    "message": "Ocultar reações do Facebook"
+  },
+  "heading": {
+    "message": "Exibição de reações do Facebook"
+  },
+  "scopeDescription": {
+    "message": "Esta configuração vale para publicações, comentários e respostas."
+  },
+  "statsHeading": {
+    "message": "Ocultadas desde o início do acompanhamento"
+  },
+  "countUnit": {
+    "message": "ícones"
+  },
+  "statsLoading": {
+    "message": "Carregando estatísticas acumuladas…"
+  },
+  "modeLabel": {
+    "message": "Modo de exibição"
+  },
+  "modeLikeOnly": {
+    "message": "Mostrar apenas Curtir (padrão)"
+  },
+  "modeShowOne": {
+    "message": "Mostrar a reação mais popular"
+  },
+  "modeHideAll": {
+    "message": "Ocultar todas as reações"
+  },
+  "modeDisabled": {
+    "message": "Desativar"
+  },
+  "saveButton": {
+    "message": "Salvar"
+  },
+  "statsEmpty": {
+    "message": "Nenhum ícone de reação foi ocultado ainda."
+  },
+  "statsReadError": {
+    "message": "Não foi possível ler as estatísticas sincronizadas."
+  },
+  "settingsReadError": {
+    "message": "Não foi possível ler as configurações. O padrão será usado."
+  },
+  "invalidMode": {
+    "message": "O modo selecionado é inválido."
+  },
+  "saveSuccess": {
+    "message": "Configurações salvas e aplicadas imediatamente."
+  },
+  "saveError": {
+    "message": "Não foi possível salvar. Tente novamente mais tarde."
+  },
+  "reactionLike": {
+    "message": "Curtir"
+  },
+  "reactionLove": {
+    "message": "Amei"
+  },
+  "reactionCare": {
+    "message": "Força"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Uau"
+  },
+  "reactionSad": {
+    "message": "Triste"
+  },
+  "reactionAngry": {
+    "message": "Grr"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Dê uma estrela a este projeto no GitHub"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Ukryj reakcje na Facebooku"
+  },
+  "extensionDescription": {
+    "message": "Ukrywa ikony reakcji w postach, komentarzach i odpowiedziach na Facebooku."
+  },
+  "popupTitle": {
+    "message": "Ukryj reakcje na Facebooku"
+  },
+  "heading": {
+    "message": "Wyświetlanie reakcji na Facebooku"
+  },
+  "scopeDescription": {
+    "message": "To ustawienie dotyczy postów, komentarzy i odpowiedzi."
+  },
+  "statsHeading": {
+    "message": "Ukryte od rozpoczęcia zliczania"
+  },
+  "countUnit": {
+    "message": "ikon"
+  },
+  "statsLoading": {
+    "message": "Wczytywanie statystyk zbiorczych…"
+  },
+  "modeLabel": {
+    "message": "Tryb wyświetlania"
+  },
+  "modeLikeOnly": {
+    "message": "Pokaż tylko Lubię to (domyślnie)"
+  },
+  "modeShowOne": {
+    "message": "Pokaż najpopularniejszą reakcję"
+  },
+  "modeHideAll": {
+    "message": "Ukryj wszystkie reakcje"
+  },
+  "modeDisabled": {
+    "message": "Wyłącz"
+  },
+  "saveButton": {
+    "message": "Zapisz"
+  },
+  "statsEmpty": {
+    "message": "Nie ukryto jeszcze żadnej ikony reakcji."
+  },
+  "statsReadError": {
+    "message": "Nie można odczytać zsynchronizowanych statystyk."
+  },
+  "settingsReadError": {
+    "message": "Nie można odczytać ustawień. Użyto wartości domyślnej."
+  },
+  "invalidMode": {
+    "message": "Wybrany tryb jest nieprawidłowy."
+  },
+  "saveSuccess": {
+    "message": "Ustawienia zapisano i zastosowano natychmiast."
+  },
+  "saveError": {
+    "message": "Nie można zapisać. Spróbuj ponownie później."
+  },
+  "reactionLike": {
+    "message": "Lubię to"
+  },
+  "reactionLove": {
+    "message": "Super"
+  },
+  "reactionCare": {
+    "message": "Trzymaj się"
+  },
+  "reactionHaha": {
+    "message": "Ha ha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Przykro mi"
+  },
+  "reactionAngry": {
+    "message": "Wrr"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Dodaj gwiazdkę temu projektowi na GitHubie"
+  }
+}

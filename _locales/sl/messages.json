@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Skrij odzive na Facebooku"
+  },
+  "extensionDescription": {
+    "message": "Skrije ikone odzivov v objavah, komentarjih in odgovorih na Facebooku."
+  },
+  "popupTitle": {
+    "message": "Skrij odzive na Facebooku"
+  },
+  "heading": {
+    "message": "Prikaz odzivov na Facebooku"
+  },
+  "scopeDescription": {
+    "message": "Ta nastavitev velja za objave, komentarje in odgovore."
+  },
+  "statsHeading": {
+    "message": "Skrito od začetka štetja"
+  },
+  "countUnit": {
+    "message": "ikon"
+  },
+  "statsLoading": {
+    "message": "Nalaganje skupne statistike…"
+  },
+  "modeLabel": {
+    "message": "Način prikaza"
+  },
+  "modeLikeOnly": {
+    "message": "Prikaži samo Všeč mi je (privzeto)"
+  },
+  "modeShowOne": {
+    "message": "Prikaži najbolj priljubljen odziv"
+  },
+  "modeHideAll": {
+    "message": "Skrij vse odzive"
+  },
+  "modeDisabled": {
+    "message": "Onemogoči"
+  },
+  "saveButton": {
+    "message": "Shrani"
+  },
+  "statsEmpty": {
+    "message": "Skrita ni še nobena ikona odziva."
+  },
+  "statsReadError": {
+    "message": "Sinhronizirane statistike ni mogoče prebrati."
+  },
+  "settingsReadError": {
+    "message": "Nastavitev ni mogoče prebrati. Uporabljena bo privzeta vrednost."
+  },
+  "invalidMode": {
+    "message": "Izbrani način ni veljaven."
+  },
+  "saveSuccess": {
+    "message": "Nastavitve so shranjene in takoj uporabljene."
+  },
+  "saveError": {
+    "message": "Shranjevanje ni uspelo. Poskusite znova pozneje."
+  },
+  "reactionLike": {
+    "message": "Všeč mi je"
+  },
+  "reactionLove": {
+    "message": "Obožujem"
+  },
+  "reactionCare": {
+    "message": "Podpora"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Vau"
+  },
+  "reactionSad": {
+    "message": "Žalostno"
+  },
+  "reactionAngry": {
+    "message": "Jezno"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Označite ta projekt z zvezdico na GitHubu"
+  }
+}

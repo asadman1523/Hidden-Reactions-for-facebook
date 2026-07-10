@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Itago ang mga reaction sa Facebook"
+  },
+  "extensionDescription": {
+    "message": "Itinatago ang mga icon ng reaction sa mga post, komento, at reply sa Facebook."
+  },
+  "popupTitle": {
+    "message": "Itago ang mga reaction sa Facebook"
+  },
+  "heading": {
+    "message": "Pagpapakita ng reaction sa Facebook"
+  },
+  "scopeDescription": {
+    "message": "Nalalapat ang setting na ito sa mga post, komento, at reply."
+  },
+  "statsHeading": {
+    "message": "Naitago mula nang simulan ang pagsubaybay"
+  },
+  "countUnit": {
+    "message": "icon"
+  },
+  "statsLoading": {
+    "message": "Nilo-load ang pinagsama-samang stats…"
+  },
+  "modeLabel": {
+    "message": "Display mode"
+  },
+  "modeLikeOnly": {
+    "message": "Like lang ang ipakita (default)"
+  },
+  "modeShowOne": {
+    "message": "Ipakita ang pinakasikat na reaction"
+  },
+  "modeHideAll": {
+    "message": "Itago ang lahat ng reaction"
+  },
+  "modeDisabled": {
+    "message": "I-disable"
+  },
+  "saveButton": {
+    "message": "I-save"
+  },
+  "statsEmpty": {
+    "message": "Wala pang naitatagong reaction icon."
+  },
+  "statsReadError": {
+    "message": "Hindi mabasa ang naka-sync na stats."
+  },
+  "settingsReadError": {
+    "message": "Hindi mabasa ang settings. Gagamitin ang default."
+  },
+  "invalidMode": {
+    "message": "Hindi valid ang napiling mode."
+  },
+  "saveSuccess": {
+    "message": "Na-save at agad na inilapat ang settings."
+  },
+  "saveError": {
+    "message": "Hindi ma-save. Subukan ulit mamaya."
+  },
+  "reactionLike": {
+    "message": "Like"
+  },
+  "reactionLove": {
+    "message": "Love"
+  },
+  "reactionCare": {
+    "message": "Care"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Sad"
+  },
+  "reactionAngry": {
+    "message": "Angry"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Bigyan ng star ang proyektong ito sa GitHub"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebook প্রতিক্রিয়া লুকান"
+  },
+  "extensionDescription": {
+    "message": "Facebook পোস্ট, মন্তব্য ও উত্তরের প্রতিক্রিয়া আইকন লুকায়।"
+  },
+  "popupTitle": {
+    "message": "Facebook প্রতিক্রিয়া লুকান"
+  },
+  "heading": {
+    "message": "Facebook প্রতিক্রিয়া প্রদর্শন"
+  },
+  "scopeDescription": {
+    "message": "এই সেটিং পোস্ট, মন্তব্য ও উত্তরে প্রযোজ্য।"
+  },
+  "statsHeading": {
+    "message": "গণনা শুরুর পর থেকে লুকানো"
+  },
+  "countUnit": {
+    "message": "আইকন"
+  },
+  "statsLoading": {
+    "message": "মোট পরিসংখ্যান লোড হচ্ছে…"
+  },
+  "modeLabel": {
+    "message": "প্রদর্শন মোড"
+  },
+  "modeLikeOnly": {
+    "message": "শুধু পছন্দ দেখান (ডিফল্ট)"
+  },
+  "modeShowOne": {
+    "message": "সবচেয়ে জনপ্রিয় প্রতিক্রিয়া দেখান"
+  },
+  "modeHideAll": {
+    "message": "সব প্রতিক্রিয়া লুকান"
+  },
+  "modeDisabled": {
+    "message": "বন্ধ করুন"
+  },
+  "saveButton": {
+    "message": "সংরক্ষণ"
+  },
+  "statsEmpty": {
+    "message": "এখনও কোনো প্রতিক্রিয়া আইকন লুকানো হয়নি।"
+  },
+  "statsReadError": {
+    "message": "সিঙ্ক করা পরিসংখ্যান পড়া যায়নি।"
+  },
+  "settingsReadError": {
+    "message": "সেটিং পড়া যায়নি। ডিফল্ট ব্যবহার করা হচ্ছে।"
+  },
+  "invalidMode": {
+    "message": "নির্বাচিত মোডটি সঠিক নয়।"
+  },
+  "saveSuccess": {
+    "message": "সেটিং সংরক্ষণ করে সঙ্গে সঙ্গে প্রয়োগ করা হয়েছে।"
+  },
+  "saveError": {
+    "message": "সংরক্ষণ করা যায়নি। পরে আবার চেষ্টা করুন।"
+  },
+  "reactionLike": {
+    "message": "পছন্দ"
+  },
+  "reactionLove": {
+    "message": "ভালোবাসি"
+  },
+  "reactionCare": {
+    "message": "যত্ন"
+  },
+  "reactionHaha": {
+    "message": "হাহা"
+  },
+  "reactionWow": {
+    "message": "বাহ"
+  },
+  "reactionSad": {
+    "message": "দুঃখ"
+  },
+  "reactionAngry": {
+    "message": "রাগ"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "GitHub-এ এই প্রকল্পে স্টার দিন"
+  }
+}

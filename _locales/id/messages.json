@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Sembunyikan reaksi Facebook"
+  },
+  "extensionDescription": {
+    "message": "Menyembunyikan ikon reaksi pada postingan, komentar, dan balasan Facebook."
+  },
+  "popupTitle": {
+    "message": "Sembunyikan reaksi Facebook"
+  },
+  "heading": {
+    "message": "Tampilan reaksi Facebook"
+  },
+  "scopeDescription": {
+    "message": "Pengaturan ini berlaku untuk postingan, komentar, dan balasan."
+  },
+  "statsHeading": {
+    "message": "Disembunyikan sejak pelacakan dimulai"
+  },
+  "countUnit": {
+    "message": "ikon"
+  },
+  "statsLoading": {
+    "message": "Memuat statistik kumulatif…"
+  },
+  "modeLabel": {
+    "message": "Mode tampilan"
+  },
+  "modeLikeOnly": {
+    "message": "Tampilkan Suka saja (default)"
+  },
+  "modeShowOne": {
+    "message": "Tampilkan reaksi terpopuler"
+  },
+  "modeHideAll": {
+    "message": "Sembunyikan semua reaksi"
+  },
+  "modeDisabled": {
+    "message": "Nonaktifkan"
+  },
+  "saveButton": {
+    "message": "Simpan"
+  },
+  "statsEmpty": {
+    "message": "Belum ada ikon reaksi yang disembunyikan."
+  },
+  "statsReadError": {
+    "message": "Tidak dapat membaca statistik tersinkron."
+  },
+  "settingsReadError": {
+    "message": "Tidak dapat membaca pengaturan. Nilai default digunakan."
+  },
+  "invalidMode": {
+    "message": "Mode yang dipilih tidak valid."
+  },
+  "saveSuccess": {
+    "message": "Pengaturan disimpan dan langsung diterapkan."
+  },
+  "saveError": {
+    "message": "Tidak dapat menyimpan. Coba lagi nanti."
+  },
+  "reactionLike": {
+    "message": "Suka"
+  },
+  "reactionLove": {
+    "message": "Super"
+  },
+  "reactionCare": {
+    "message": "Peduli"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Sedih"
+  },
+  "reactionAngry": {
+    "message": "Marah"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Beri bintang proyek ini di GitHub"
+  }
+}

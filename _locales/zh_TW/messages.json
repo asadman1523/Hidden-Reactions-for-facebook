@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "隱藏 Facebook 反應"
+  },
+  "extensionDescription": {
+    "message": "隱藏 Facebook 貼文、留言與回覆中的反應圖示。"
+  },
+  "popupTitle": {
+    "message": "隱藏 Facebook 反應"
+  },
+  "heading": {
+    "message": "Facebook 反應顯示"
+  },
+  "scopeDescription": {
+    "message": "此設定同時套用於貼文、留言與回覆。"
+  },
+  "statsHeading": {
+    "message": "自開始統計以來已隱藏"
+  },
+  "countUnit": {
+    "message": "個"
+  },
+  "statsLoading": {
+    "message": "正在讀取累計統計……"
+  },
+  "modeLabel": {
+    "message": "顯示模式"
+  },
+  "modeLikeOnly": {
+    "message": "只顯示讚（預設）"
+  },
+  "modeShowOne": {
+    "message": "只顯示最熱門反應"
+  },
+  "modeHideAll": {
+    "message": "隱藏所有反應"
+  },
+  "modeDisabled": {
+    "message": "停用"
+  },
+  "saveButton": {
+    "message": "儲存"
+  },
+  "statsEmpty": {
+    "message": "尚未累計隱藏任何表情符號。"
+  },
+  "statsReadError": {
+    "message": "無法讀取同步統計。"
+  },
+  "settingsReadError": {
+    "message": "無法讀取設定，已使用預設值。"
+  },
+  "invalidMode": {
+    "message": "設定值無效，請重新選擇。"
+  },
+  "saveSuccess": {
+    "message": "設定已儲存並立即套用。"
+  },
+  "saveError": {
+    "message": "儲存失敗，請稍後再試。"
+  },
+  "reactionLike": {
+    "message": "讚"
+  },
+  "reactionLove": {
+    "message": "大心"
+  },
+  "reactionCare": {
+    "message": "加油"
+  },
+  "reactionHaha": {
+    "message": "哈"
+  },
+  "reactionWow": {
+    "message": "哇"
+  },
+  "reactionSad": {
+    "message": "嗚"
+  },
+  "reactionAngry": {
+    "message": "怒"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "到 GitHub 給這個專案一顆星"
+  }
+}

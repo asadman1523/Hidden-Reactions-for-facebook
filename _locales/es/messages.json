@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Ocultar reacciones de Facebook"
+  },
+  "extensionDescription": {
+    "message": "Oculta los iconos de reacción en publicaciones, comentarios y respuestas de Facebook."
+  },
+  "popupTitle": {
+    "message": "Ocultar reacciones de Facebook"
+  },
+  "heading": {
+    "message": "Visualización de reacciones de Facebook"
+  },
+  "scopeDescription": {
+    "message": "Esta configuración se aplica a publicaciones, comentarios y respuestas."
+  },
+  "statsHeading": {
+    "message": "Ocultadas desde el inicio del seguimiento"
+  },
+  "countUnit": {
+    "message": "iconos"
+  },
+  "statsLoading": {
+    "message": "Cargando estadísticas acumuladas…"
+  },
+  "modeLabel": {
+    "message": "Modo de visualización"
+  },
+  "modeLikeOnly": {
+    "message": "Mostrar solo Me gusta (predeterminado)"
+  },
+  "modeShowOne": {
+    "message": "Mostrar la reacción más popular"
+  },
+  "modeHideAll": {
+    "message": "Ocultar todas las reacciones"
+  },
+  "modeDisabled": {
+    "message": "Desactivar"
+  },
+  "saveButton": {
+    "message": "Guardar"
+  },
+  "statsEmpty": {
+    "message": "Todavía no se ha ocultado ningún icono de reacción."
+  },
+  "statsReadError": {
+    "message": "No se pueden leer las estadísticas sincronizadas."
+  },
+  "settingsReadError": {
+    "message": "No se puede leer la configuración. Se usará el valor predeterminado."
+  },
+  "invalidMode": {
+    "message": "El modo seleccionado no es válido."
+  },
+  "saveSuccess": {
+    "message": "Configuración guardada y aplicada inmediatamente."
+  },
+  "saveError": {
+    "message": "No se pudo guardar. Inténtalo de nuevo más tarde."
+  },
+  "reactionLike": {
+    "message": "Me gusta"
+  },
+  "reactionLove": {
+    "message": "Me encanta"
+  },
+  "reactionCare": {
+    "message": "Me importa"
+  },
+  "reactionHaha": {
+    "message": "Me divierte"
+  },
+  "reactionWow": {
+    "message": "Me asombra"
+  },
+  "reactionSad": {
+    "message": "Me entristece"
+  },
+  "reactionAngry": {
+    "message": "Me enfada"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Dale una estrella a este proyecto en GitHub"
+  }
+}

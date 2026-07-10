@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebookのリアクションを非表示"
+  },
+  "extensionDescription": {
+    "message": "Facebookの投稿、コメント、返信のリアクションアイコンを非表示にします。"
+  },
+  "popupTitle": {
+    "message": "Facebookのリアクションを非表示"
+  },
+  "heading": {
+    "message": "Facebookリアクション表示"
+  },
+  "scopeDescription": {
+    "message": "この設定は投稿、コメント、返信に適用されます。"
+  },
+  "statsHeading": {
+    "message": "追跡開始後に非表示にした数"
+  },
+  "countUnit": {
+    "message": "個"
+  },
+  "statsLoading": {
+    "message": "累計データを読み込んでいます…"
+  },
+  "modeLabel": {
+    "message": "表示モード"
+  },
+  "modeLikeOnly": {
+    "message": "「いいね！」のみ表示（既定）"
+  },
+  "modeShowOne": {
+    "message": "最も人気のリアクションのみ表示"
+  },
+  "modeHideAll": {
+    "message": "すべてのリアクションを非表示"
+  },
+  "modeDisabled": {
+    "message": "無効"
+  },
+  "saveButton": {
+    "message": "保存"
+  },
+  "statsEmpty": {
+    "message": "非表示にしたリアクションアイコンはまだありません。"
+  },
+  "statsReadError": {
+    "message": "同期された統計を読み込めません。"
+  },
+  "settingsReadError": {
+    "message": "設定を読み込めないため、既定値を使用します。"
+  },
+  "invalidMode": {
+    "message": "選択したモードは無効です。"
+  },
+  "saveSuccess": {
+    "message": "設定を保存し、すぐに適用しました。"
+  },
+  "saveError": {
+    "message": "保存できません。後でもう一度お試しください。"
+  },
+  "reactionLike": {
+    "message": "いいね！"
+  },
+  "reactionLove": {
+    "message": "超いいね！"
+  },
+  "reactionCare": {
+    "message": "大切だね"
+  },
+  "reactionHaha": {
+    "message": "うけるね"
+  },
+  "reactionWow": {
+    "message": "すごいね"
+  },
+  "reactionSad": {
+    "message": "悲しいね"
+  },
+  "reactionAngry": {
+    "message": "ひどいね"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "GitHub でこのプロジェクトにスターを付ける"
+  }
+}

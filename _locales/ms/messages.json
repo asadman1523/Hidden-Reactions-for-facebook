@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Sembunyikan reaksi Facebook"
+  },
+  "extensionDescription": {
+    "message": "Menyembunyikan ikon reaksi pada siaran, komen dan balasan Facebook."
+  },
+  "popupTitle": {
+    "message": "Sembunyikan reaksi Facebook"
+  },
+  "heading": {
+    "message": "Paparan reaksi Facebook"
+  },
+  "scopeDescription": {
+    "message": "Tetapan ini digunakan pada siaran, komen dan balasan."
+  },
+  "statsHeading": {
+    "message": "Disembunyikan sejak penjejakan bermula"
+  },
+  "countUnit": {
+    "message": "ikon"
+  },
+  "statsLoading": {
+    "message": "Memuatkan statistik terkumpul…"
+  },
+  "modeLabel": {
+    "message": "Mod paparan"
+  },
+  "modeLikeOnly": {
+    "message": "Tunjukkan Suka sahaja (lalai)"
+  },
+  "modeShowOne": {
+    "message": "Tunjukkan reaksi paling popular"
+  },
+  "modeHideAll": {
+    "message": "Sembunyikan semua reaksi"
+  },
+  "modeDisabled": {
+    "message": "Nyahdayakan"
+  },
+  "saveButton": {
+    "message": "Simpan"
+  },
+  "statsEmpty": {
+    "message": "Belum ada ikon reaksi yang disembunyikan."
+  },
+  "statsReadError": {
+    "message": "Tidak dapat membaca statistik yang disegerakkan."
+  },
+  "settingsReadError": {
+    "message": "Tidak dapat membaca tetapan. Nilai lalai digunakan."
+  },
+  "invalidMode": {
+    "message": "Mod yang dipilih tidak sah."
+  },
+  "saveSuccess": {
+    "message": "Tetapan disimpan dan digunakan serta-merta."
+  },
+  "saveError": {
+    "message": "Tidak dapat menyimpan. Cuba lagi kemudian."
+  },
+  "reactionLike": {
+    "message": "Suka"
+  },
+  "reactionLove": {
+    "message": "Sayang"
+  },
+  "reactionCare": {
+    "message": "Prihatin"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Sedih"
+  },
+  "reactionAngry": {
+    "message": "Marah"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Beri projek ini bintang di GitHub"
+  }
+}

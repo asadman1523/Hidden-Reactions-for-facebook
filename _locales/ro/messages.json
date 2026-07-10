@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Ascunde reacțiile Facebook"
+  },
+  "extensionDescription": {
+    "message": "Ascunde pictogramele de reacție din postările, comentariile și răspunsurile Facebook."
+  },
+  "popupTitle": {
+    "message": "Ascunde reacțiile Facebook"
+  },
+  "heading": {
+    "message": "Afișarea reacțiilor Facebook"
+  },
+  "scopeDescription": {
+    "message": "Această setare se aplică postărilor, comentariilor și răspunsurilor."
+  },
+  "statsHeading": {
+    "message": "Ascunse de la începutul contorizării"
+  },
+  "countUnit": {
+    "message": "pictograme"
+  },
+  "statsLoading": {
+    "message": "Se încarcă statisticile cumulate…"
+  },
+  "modeLabel": {
+    "message": "Mod de afișare"
+  },
+  "modeLikeOnly": {
+    "message": "Afișează doar Îmi place (implicit)"
+  },
+  "modeShowOne": {
+    "message": "Afișează reacția cea mai populară"
+  },
+  "modeHideAll": {
+    "message": "Ascunde toate reacțiile"
+  },
+  "modeDisabled": {
+    "message": "Dezactivează"
+  },
+  "saveButton": {
+    "message": "Salvează"
+  },
+  "statsEmpty": {
+    "message": "Nu a fost ascunsă încă nicio pictogramă de reacție."
+  },
+  "statsReadError": {
+    "message": "Statisticile sincronizate nu pot fi citite."
+  },
+  "settingsReadError": {
+    "message": "Setările nu pot fi citite. Se folosește valoarea implicită."
+  },
+  "invalidMode": {
+    "message": "Modul selectat nu este valid."
+  },
+  "saveSuccess": {
+    "message": "Setările au fost salvate și aplicate imediat."
+  },
+  "saveError": {
+    "message": "Salvarea nu a reușit. Încearcă din nou mai târziu."
+  },
+  "reactionLike": {
+    "message": "Îmi place"
+  },
+  "reactionLove": {
+    "message": "Ador"
+  },
+  "reactionCare": {
+    "message": "Îmi pasă"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Uau"
+  },
+  "reactionSad": {
+    "message": "Trist"
+  },
+  "reactionAngry": {
+    "message": "Furios"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Acordă o stea acestui proiect pe GitHub"
+  }
+}

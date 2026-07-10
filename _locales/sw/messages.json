@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Ficha hisia za Facebook"
+  },
+  "extensionDescription": {
+    "message": "Huficha aikoni za hisia kwenye machapisho, maoni na majibu ya Facebook."
+  },
+  "popupTitle": {
+    "message": "Ficha hisia za Facebook"
+  },
+  "heading": {
+    "message": "Onyesho la hisia za Facebook"
+  },
+  "scopeDescription": {
+    "message": "Mpangilio huu unatumika kwa machapisho, maoni na majibu."
+  },
+  "statsHeading": {
+    "message": "Zilizofichwa tangu ufuatiliaji uanze"
+  },
+  "countUnit": {
+    "message": "aikoni"
+  },
+  "statsLoading": {
+    "message": "Inapakia takwimu zilizokusanywa…"
+  },
+  "modeLabel": {
+    "message": "Hali ya kuonyesha"
+  },
+  "modeLikeOnly": {
+    "message": "Onyesha Like pekee (chaguo-msingi)"
+  },
+  "modeShowOne": {
+    "message": "Onyesha hisia maarufu zaidi"
+  },
+  "modeHideAll": {
+    "message": "Ficha hisia zote"
+  },
+  "modeDisabled": {
+    "message": "Zima"
+  },
+  "saveButton": {
+    "message": "Hifadhi"
+  },
+  "statsEmpty": {
+    "message": "Bado hakuna aikoni ya hisia iliyofichwa."
+  },
+  "statsReadError": {
+    "message": "Imeshindwa kusoma takwimu zilizosawazishwa."
+  },
+  "settingsReadError": {
+    "message": "Imeshindwa kusoma mipangilio. Chaguo-msingi linatumika."
+  },
+  "invalidMode": {
+    "message": "Hali iliyochaguliwa si sahihi."
+  },
+  "saveSuccess": {
+    "message": "Mipangilio imehifadhiwa na kutumika mara moja."
+  },
+  "saveError": {
+    "message": "Imeshindwa kuhifadhi. Jaribu tena baadaye."
+  },
+  "reactionLike": {
+    "message": "Like"
+  },
+  "reactionLove": {
+    "message": "Love"
+  },
+  "reactionCare": {
+    "message": "Care"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Sad"
+  },
+  "reactionAngry": {
+    "message": "Angry"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Ipe mradi huu nyota kwenye GitHub"
+  }
+}

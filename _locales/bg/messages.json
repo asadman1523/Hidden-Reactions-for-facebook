@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Скриване на реакциите във Facebook"
+  },
+  "extensionDescription": {
+    "message": "Скрива иконите за реакции в публикации, коментари и отговори във Facebook."
+  },
+  "popupTitle": {
+    "message": "Скриване на реакциите във Facebook"
+  },
+  "heading": {
+    "message": "Показване на реакциите във Facebook"
+  },
+  "scopeDescription": {
+    "message": "Тази настройка важи за публикации, коментари и отговори."
+  },
+  "statsHeading": {
+    "message": "Скрити от началото на отчитането"
+  },
+  "countUnit": {
+    "message": "икони"
+  },
+  "statsLoading": {
+    "message": "Зареждане на натрупаната статистика…"
+  },
+  "modeLabel": {
+    "message": "Режим на показване"
+  },
+  "modeLikeOnly": {
+    "message": "Показване само на „Харесва ми“ (по подразбиране)"
+  },
+  "modeShowOne": {
+    "message": "Показване на най-популярната реакция"
+  },
+  "modeHideAll": {
+    "message": "Скриване на всички реакции"
+  },
+  "modeDisabled": {
+    "message": "Деактивиране"
+  },
+  "saveButton": {
+    "message": "Запазване"
+  },
+  "statsEmpty": {
+    "message": "Все още няма скрити икони за реакции."
+  },
+  "statsReadError": {
+    "message": "Синхронизираната статистика не може да бъде прочетена."
+  },
+  "settingsReadError": {
+    "message": "Настройките не могат да бъдат прочетени. Използва се стойността по подразбиране."
+  },
+  "invalidMode": {
+    "message": "Избраният режим е невалиден."
+  },
+  "saveSuccess": {
+    "message": "Настройките са запазени и приложени веднага."
+  },
+  "saveError": {
+    "message": "Неуспешно запазване. Опитайте отново по-късно."
+  },
+  "reactionLike": {
+    "message": "Харесва ми"
+  },
+  "reactionLove": {
+    "message": "Обичам"
+  },
+  "reactionCare": {
+    "message": "Грижа ме е"
+  },
+  "reactionHaha": {
+    "message": "Хаха"
+  },
+  "reactionWow": {
+    "message": "Уау"
+  },
+  "reactionSad": {
+    "message": "Тъжно"
+  },
+  "reactionAngry": {
+    "message": "Ядосано"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Дайте звезда на проекта в GitHub"
+  }
+}

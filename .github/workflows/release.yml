@@ -1,0 +1,71 @@
+name: Package release
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  package:
+    name: Build and upload extension ZIP
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out release tag
+        uses: actions/checkout@v4
+
+      - name: Validate release version
+        shell: bash
+        run: |
+          set -euo pipefail
+          version="$(jq -r '.version' manifest.json)"
+          tag_version="${GITHUB_REF_NAME#v}"
+
+          if [[ "$tag_version" != "$version" ]]; then
+            echo "Release tag ${GITHUB_REF_NAME} does not match manifest version ${version}." >&2
+            exit 1
+          fi
+
+          echo "VERSION=$version" >> "$GITHUB_ENV"
+
+      - name: Build extension ZIP
+        shell: bash
+        run: |
+          set -euo pipefail
+          package_dir="dist/package"
+          asset="dist/hidden-reactions-for-facebook-v${VERSION}.zip"
+
+          mkdir -p "$package_dir"
+          cp \
+            manifest.json \
+            popup.html \
+            popup.js \
+            popup.css \
+            content.js \
+            content.css \
+            stats-worker.js \
+            icon16.png \
+            icon48.png \
+            icon128.png \
+            "$package_dir/"
+          cp -R _locales "$package_dir/"
+
+          (
+            cd "$package_dir"
+            zip -r "../$(basename "$asset")" .
+          )
+
+          unzip -l "$asset"
+
+      - name: Attach ZIP to GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh release upload \
+            "$GITHUB_REF_NAME" \
+            "dist/hidden-reactions-for-facebook-v${VERSION}.zip" \
+            --clobber

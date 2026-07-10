@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebook ప్రతిస్పందనలను దాచండి"
+  },
+  "extensionDescription": {
+    "message": "Facebook పోస్ట్‌లు, వ్యాఖ్యలు మరియు ప్రత్యుత్తరాల్లోని ప్రతిస్పందన చిహ్నాలను దాచుతుంది."
+  },
+  "popupTitle": {
+    "message": "Facebook ప్రతిస్పందనలను దాచండి"
+  },
+  "heading": {
+    "message": "Facebook ప్రతిస్పందన ప్రదర్శన"
+  },
+  "scopeDescription": {
+    "message": "ఈ సెట్టింగ్ పోస్ట్‌లు, వ్యాఖ్యలు మరియు ప్రత్యుత్తరాలకు వర్తిస్తుంది."
+  },
+  "statsHeading": {
+    "message": "లెక్కింపు ప్రారంభమైనప్పటి నుంచి దాచినవి"
+  },
+  "countUnit": {
+    "message": "చిహ్నాలు"
+  },
+  "statsLoading": {
+    "message": "మొత్తం గణాంకాలు లోడ్ అవుతున్నాయి…"
+  },
+  "modeLabel": {
+    "message": "ప్రదర్శన మోడ్"
+  },
+  "modeLikeOnly": {
+    "message": "లైక్ మాత్రమే చూపించు (డిఫాల్ట్)"
+  },
+  "modeShowOne": {
+    "message": "అత్యంత ప్రజాదరణ పొందిన ప్రతిస్పందనను చూపించు"
+  },
+  "modeHideAll": {
+    "message": "అన్ని ప్రతిస్పందనలను దాచు"
+  },
+  "modeDisabled": {
+    "message": "నిలిపివేయి"
+  },
+  "saveButton": {
+    "message": "సేవ్ చేయి"
+  },
+  "statsEmpty": {
+    "message": "ఇప్పటివరకు ఏ ప్రతిస్పందన చిహ్నమూ దాచబడలేదు."
+  },
+  "statsReadError": {
+    "message": "సింక్ చేసిన గణాంకాలను చదవలేకపోయాము."
+  },
+  "settingsReadError": {
+    "message": "సెట్టింగ్‌లను చదవలేకపోయాము. డిఫాల్ట్ ఉపయోగించబడుతుంది."
+  },
+  "invalidMode": {
+    "message": "ఎంచుకున్న మోడ్ చెల్లదు."
+  },
+  "saveSuccess": {
+    "message": "సెట్టింగ్‌లు సేవ్ చేయబడి వెంటనే వర్తింపజేయబడ్డాయి."
+  },
+  "saveError": {
+    "message": "సేవ్ చేయలేకపోయాము. తర్వాత మళ్లీ ప్రయత్నించండి."
+  },
+  "reactionLike": {
+    "message": "లైక్"
+  },
+  "reactionLove": {
+    "message": "లవ్"
+  },
+  "reactionCare": {
+    "message": "కేర్"
+  },
+  "reactionHaha": {
+    "message": "హాహా"
+  },
+  "reactionWow": {
+    "message": "వావ్"
+  },
+  "reactionSad": {
+    "message": "విషాదం"
+  },
+  "reactionAngry": {
+    "message": "కోపం"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "GitHubలో ఈ ప్రాజెక్ట్‌కు స్టార్ ఇవ్వండి"
+  }
+}

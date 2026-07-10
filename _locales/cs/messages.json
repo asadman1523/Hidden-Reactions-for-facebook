@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Skrýt reakce na Facebooku"
+  },
+  "extensionDescription": {
+    "message": "Skryje ikony reakcí u příspěvků, komentářů a odpovědí na Facebooku."
+  },
+  "popupTitle": {
+    "message": "Skrýt reakce na Facebooku"
+  },
+  "heading": {
+    "message": "Zobrazení reakcí na Facebooku"
+  },
+  "scopeDescription": {
+    "message": "Toto nastavení platí pro příspěvky, komentáře a odpovědi."
+  },
+  "statsHeading": {
+    "message": "Skryto od zahájení sledování"
+  },
+  "countUnit": {
+    "message": "ikon"
+  },
+  "statsLoading": {
+    "message": "Načítání souhrnných statistik…"
+  },
+  "modeLabel": {
+    "message": "Režim zobrazení"
+  },
+  "modeLikeOnly": {
+    "message": "Zobrazit pouze To se mi líbí (výchozí)"
+  },
+  "modeShowOne": {
+    "message": "Zobrazit nejoblíbenější reakci"
+  },
+  "modeHideAll": {
+    "message": "Skrýt všechny reakce"
+  },
+  "modeDisabled": {
+    "message": "Zakázat"
+  },
+  "saveButton": {
+    "message": "Uložit"
+  },
+  "statsEmpty": {
+    "message": "Zatím nebyla skryta žádná ikona reakce."
+  },
+  "statsReadError": {
+    "message": "Synchronizované statistiky nelze načíst."
+  },
+  "settingsReadError": {
+    "message": "Nastavení nelze načíst. Použije se výchozí hodnota."
+  },
+  "invalidMode": {
+    "message": "Vybraný režim není platný."
+  },
+  "saveSuccess": {
+    "message": "Nastavení bylo uloženo a ihned použito."
+  },
+  "saveError": {
+    "message": "Uložení se nezdařilo. Zkuste to později."
+  },
+  "reactionLike": {
+    "message": "To se mi líbí"
+  },
+  "reactionLove": {
+    "message": "Super"
+  },
+  "reactionCare": {
+    "message": "Podpora"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Páni"
+  },
+  "reactionSad": {
+    "message": "To mě mrzí"
+  },
+  "reactionAngry": {
+    "message": "To mě štve"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Označit projekt hvězdičkou na GitHubu"
+  }
+}

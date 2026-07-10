@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Sakrij Facebook reakcije"
+  },
+  "extensionDescription": {
+    "message": "Sakriva ikone reakcija na Facebook objavama, komentarima i odgovorima."
+  },
+  "popupTitle": {
+    "message": "Sakrij Facebook reakcije"
+  },
+  "heading": {
+    "message": "Prikaz Facebook reakcija"
+  },
+  "scopeDescription": {
+    "message": "Ova se postavka primjenjuje na objave, komentare i odgovore."
+  },
+  "statsHeading": {
+    "message": "Sakriveno od početka praćenja"
+  },
+  "countUnit": {
+    "message": "ikona"
+  },
+  "statsLoading": {
+    "message": "Učitavanje zbirne statistike…"
+  },
+  "modeLabel": {
+    "message": "Način prikaza"
+  },
+  "modeLikeOnly": {
+    "message": "Prikaži samo Sviđa mi se (zadano)"
+  },
+  "modeShowOne": {
+    "message": "Prikaži najpopularniju reakciju"
+  },
+  "modeHideAll": {
+    "message": "Sakrij sve reakcije"
+  },
+  "modeDisabled": {
+    "message": "Onemogući"
+  },
+  "saveButton": {
+    "message": "Spremi"
+  },
+  "statsEmpty": {
+    "message": "Još nije skrivena nijedna ikona reakcije."
+  },
+  "statsReadError": {
+    "message": "Nije moguće pročitati sinkroniziranu statistiku."
+  },
+  "settingsReadError": {
+    "message": "Nije moguće pročitati postavke. Koristi se zadana vrijednost."
+  },
+  "invalidMode": {
+    "message": "Odabrani način nije valjan."
+  },
+  "saveSuccess": {
+    "message": "Postavke su spremljene i odmah primijenjene."
+  },
+  "saveError": {
+    "message": "Spremanje nije uspjelo. Pokušajte ponovno kasnije."
+  },
+  "reactionLike": {
+    "message": "Sviđa mi se"
+  },
+  "reactionLove": {
+    "message": "Super"
+  },
+  "reactionCare": {
+    "message": "Podrška"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Tužno"
+  },
+  "reactionAngry": {
+    "message": "Ljuto"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Označite ovaj projekt zvjezdicom na GitHubu"
+  }
+}

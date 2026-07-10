@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "ซ่อนความรู้สึกบน Facebook"
+  },
+  "extensionDescription": {
+    "message": "ซ่อนไอคอนแสดงความรู้สึกในโพสต์ ความคิดเห็น และการตอบกลับบน Facebook"
+  },
+  "popupTitle": {
+    "message": "ซ่อนความรู้สึกบน Facebook"
+  },
+  "heading": {
+    "message": "การแสดงความรู้สึกบน Facebook"
+  },
+  "scopeDescription": {
+    "message": "การตั้งค่านี้ใช้กับโพสต์ ความคิดเห็น และการตอบกลับ"
+  },
+  "statsHeading": {
+    "message": "ซ่อนแล้วตั้งแต่เริ่มติดตาม"
+  },
+  "countUnit": {
+    "message": "ไอคอน"
+  },
+  "statsLoading": {
+    "message": "กำลังโหลดสถิติสะสม…"
+  },
+  "modeLabel": {
+    "message": "โหมดการแสดงผล"
+  },
+  "modeLikeOnly": {
+    "message": "แสดงเฉพาะถูกใจ (ค่าเริ่มต้น)"
+  },
+  "modeShowOne": {
+    "message": "แสดงความรู้สึกยอดนิยมที่สุด"
+  },
+  "modeHideAll": {
+    "message": "ซ่อนความรู้สึกทั้งหมด"
+  },
+  "modeDisabled": {
+    "message": "ปิดใช้งาน"
+  },
+  "saveButton": {
+    "message": "บันทึก"
+  },
+  "statsEmpty": {
+    "message": "ยังไม่มีไอคอนแสดงความรู้สึกที่ถูกซ่อน"
+  },
+  "statsReadError": {
+    "message": "ไม่สามารถอ่านสถิติที่ซิงค์ได้"
+  },
+  "settingsReadError": {
+    "message": "ไม่สามารถอ่านการตั้งค่าได้ กำลังใช้ค่าเริ่มต้น"
+  },
+  "invalidMode": {
+    "message": "โหมดที่เลือกไม่ถูกต้อง"
+  },
+  "saveSuccess": {
+    "message": "บันทึกและใช้การตั้งค่าทันทีแล้ว"
+  },
+  "saveError": {
+    "message": "บันทึกไม่ได้ โปรดลองอีกครั้งภายหลัง"
+  },
+  "reactionLike": {
+    "message": "ถูกใจ"
+  },
+  "reactionLove": {
+    "message": "รักเลย"
+  },
+  "reactionCare": {
+    "message": "ห่วงใย"
+  },
+  "reactionHaha": {
+    "message": "ฮ่าๆ"
+  },
+  "reactionWow": {
+    "message": "ว้าว"
+  },
+  "reactionSad": {
+    "message": "เศร้า"
+  },
+  "reactionAngry": {
+    "message": "โกรธ"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "ให้ดาวโปรเจกต์นี้บน GitHub"
+  }
+}

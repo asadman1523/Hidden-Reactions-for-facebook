@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "إخفاء تفاعلات فيسبوك"
+  },
+  "extensionDescription": {
+    "message": "إخفاء رموز التفاعل في منشورات فيسبوك وتعليقاته وردوده."
+  },
+  "popupTitle": {
+    "message": "إخفاء تفاعلات فيسبوك"
+  },
+  "heading": {
+    "message": "عرض تفاعلات فيسبوك"
+  },
+  "scopeDescription": {
+    "message": "ينطبق هذا الإعداد على المنشورات والتعليقات والردود."
+  },
+  "statsHeading": {
+    "message": "المخفية منذ بدء التتبع"
+  },
+  "countUnit": {
+    "message": "رمز"
+  },
+  "statsLoading": {
+    "message": "جارٍ تحميل الإحصاءات التراكمية…"
+  },
+  "modeLabel": {
+    "message": "وضع العرض"
+  },
+  "modeLikeOnly": {
+    "message": "إظهار أعجبني فقط (الافتراضي)"
+  },
+  "modeShowOne": {
+    "message": "إظهار التفاعل الأكثر شيوعًا"
+  },
+  "modeHideAll": {
+    "message": "إخفاء كل التفاعلات"
+  },
+  "modeDisabled": {
+    "message": "تعطيل"
+  },
+  "saveButton": {
+    "message": "حفظ"
+  },
+  "statsEmpty": {
+    "message": "لم يتم إخفاء أي رمز تفاعل بعد."
+  },
+  "statsReadError": {
+    "message": "تعذرت قراءة الإحصاءات المتزامنة."
+  },
+  "settingsReadError": {
+    "message": "تعذرت قراءة الإعدادات. سيتم استخدام الإعداد الافتراضي."
+  },
+  "invalidMode": {
+    "message": "وضع العرض المحدد غير صالح."
+  },
+  "saveSuccess": {
+    "message": "تم حفظ الإعدادات وتطبيقها فورًا."
+  },
+  "saveError": {
+    "message": "تعذر الحفظ. يُرجى المحاولة لاحقًا."
+  },
+  "reactionLike": {
+    "message": "أعجبني"
+  },
+  "reactionLove": {
+    "message": "أحببته"
+  },
+  "reactionCare": {
+    "message": "دعم"
+  },
+  "reactionHaha": {
+    "message": "هاها"
+  },
+  "reactionWow": {
+    "message": "واو"
+  },
+  "reactionSad": {
+    "message": "أحزنني"
+  },
+  "reactionAngry": {
+    "message": "أغضبني"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "ضع نجمة لهذا المشروع على GitHub"
+  }
+}

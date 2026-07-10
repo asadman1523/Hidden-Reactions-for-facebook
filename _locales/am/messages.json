@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "የFacebook ምላሾችን ደብቅ"
+  },
+  "extensionDescription": {
+    "message": "በFacebook ልጥፎች፣ አስተያየቶች እና ምላሾች ላይ ያሉ የምላሽ አዶዎችን ይደብቃል።"
+  },
+  "popupTitle": {
+    "message": "የFacebook ምላሾችን ደብቅ"
+  },
+  "heading": {
+    "message": "የFacebook ምላሽ ማሳያ"
+  },
+  "scopeDescription": {
+    "message": "ይህ ቅንብር ለልጥፎች፣ አስተያየቶች እና ምላሾች ይሠራል።"
+  },
+  "statsHeading": {
+    "message": "ክትትል ከተጀመረ ጀምሮ የተደበቁ"
+  },
+  "countUnit": {
+    "message": "አዶዎች"
+  },
+  "statsLoading": {
+    "message": "የተጠራቀመ ስታቲስቲክስ በመጫን ላይ…"
+  },
+  "modeLabel": {
+    "message": "የማሳያ ሁኔታ"
+  },
+  "modeLikeOnly": {
+    "message": "Like ብቻ አሳይ (ነባሪ)"
+  },
+  "modeShowOne": {
+    "message": "በጣም ታዋቂውን ምላሽ አሳይ"
+  },
+  "modeHideAll": {
+    "message": "ሁሉንም ምላሾች ደብቅ"
+  },
+  "modeDisabled": {
+    "message": "አሰናክል"
+  },
+  "saveButton": {
+    "message": "አስቀምጥ"
+  },
+  "statsEmpty": {
+    "message": "እስካሁን ምንም የምላሽ አዶ አልተደበቀም።"
+  },
+  "statsReadError": {
+    "message": "የተመሳሰለውን ስታቲስቲክስ ማንበብ አልተቻለም።"
+  },
+  "settingsReadError": {
+    "message": "ቅንብሮችን ማንበብ አልተቻለም። ነባሪው ጥቅም ላይ ይውላል።"
+  },
+  "invalidMode": {
+    "message": "የተመረጠው ሁኔታ ልክ አይደለም።"
+  },
+  "saveSuccess": {
+    "message": "ቅንብሮች ተቀምጠው ወዲያውኑ ተተግብረዋል።"
+  },
+  "saveError": {
+    "message": "ማስቀመጥ አልተቻለም። ቆይተው እንደገና ይሞክሩ።"
+  },
+  "reactionLike": {
+    "message": "ወድጄዋለሁ"
+  },
+  "reactionLove": {
+    "message": "እወደዋለሁ"
+  },
+  "reactionCare": {
+    "message": "እንክብካቤ"
+  },
+  "reactionHaha": {
+    "message": "ሃሃ"
+  },
+  "reactionWow": {
+    "message": "ዋው"
+  },
+  "reactionSad": {
+    "message": "አሳዛኝ"
+  },
+  "reactionAngry": {
+    "message": "ተናደድኩ"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "ይህን ፕሮጀክት GitHub ላይ ኮከብ ይስጡ"
+  }
+}

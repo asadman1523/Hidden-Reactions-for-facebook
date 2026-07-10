@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "隐藏 Facebook 反应"
+  },
+  "extensionDescription": {
+    "message": "隐藏 Facebook 帖子、评论和回复中的反应图标。"
+  },
+  "popupTitle": {
+    "message": "隐藏 Facebook 反应"
+  },
+  "heading": {
+    "message": "Facebook 反应显示"
+  },
+  "scopeDescription": {
+    "message": "此设置同时应用于帖子、评论和回复。"
+  },
+  "statsHeading": {
+    "message": "自开始统计以来已隐藏"
+  },
+  "countUnit": {
+    "message": "个"
+  },
+  "statsLoading": {
+    "message": "正在读取累计统计……"
+  },
+  "modeLabel": {
+    "message": "显示模式"
+  },
+  "modeLikeOnly": {
+    "message": "只显示赞（默认）"
+  },
+  "modeShowOne": {
+    "message": "只显示最热门反应"
+  },
+  "modeHideAll": {
+    "message": "隐藏所有反应"
+  },
+  "modeDisabled": {
+    "message": "停用"
+  },
+  "saveButton": {
+    "message": "保存"
+  },
+  "statsEmpty": {
+    "message": "尚未累计隐藏任何表情符号。"
+  },
+  "statsReadError": {
+    "message": "无法读取同步统计。"
+  },
+  "settingsReadError": {
+    "message": "无法读取设置，已使用默认值。"
+  },
+  "invalidMode": {
+    "message": "设置值无效，请重新选择。"
+  },
+  "saveSuccess": {
+    "message": "设置已保存并立即应用。"
+  },
+  "saveError": {
+    "message": "保存失败，请稍后再试。"
+  },
+  "reactionLike": {
+    "message": "赞"
+  },
+  "reactionLove": {
+    "message": "爱心"
+  },
+  "reactionCare": {
+    "message": "加油"
+  },
+  "reactionHaha": {
+    "message": "哈"
+  },
+  "reactionWow": {
+    "message": "哇"
+  },
+  "reactionSad": {
+    "message": "呜"
+  },
+  "reactionAngry": {
+    "message": "怒"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "到 GitHub 给这个项目一颗星"
+  }
+}

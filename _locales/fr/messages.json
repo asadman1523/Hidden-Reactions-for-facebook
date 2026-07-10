@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Masquer les réactions Facebook"
+  },
+  "extensionDescription": {
+    "message": "Masque les icônes de réaction dans les publications, commentaires et réponses Facebook."
+  },
+  "popupTitle": {
+    "message": "Masquer les réactions Facebook"
+  },
+  "heading": {
+    "message": "Affichage des réactions Facebook"
+  },
+  "scopeDescription": {
+    "message": "Ce réglage s’applique aux publications, commentaires et réponses."
+  },
+  "statsHeading": {
+    "message": "Masquées depuis le début du suivi"
+  },
+  "countUnit": {
+    "message": "icônes"
+  },
+  "statsLoading": {
+    "message": "Chargement des statistiques cumulées…"
+  },
+  "modeLabel": {
+    "message": "Mode d’affichage"
+  },
+  "modeLikeOnly": {
+    "message": "Afficher uniquement J’aime (par défaut)"
+  },
+  "modeShowOne": {
+    "message": "Afficher la réaction la plus populaire"
+  },
+  "modeHideAll": {
+    "message": "Masquer toutes les réactions"
+  },
+  "modeDisabled": {
+    "message": "Désactiver"
+  },
+  "saveButton": {
+    "message": "Enregistrer"
+  },
+  "statsEmpty": {
+    "message": "Aucune icône de réaction n’a encore été masquée."
+  },
+  "statsReadError": {
+    "message": "Impossible de lire les statistiques synchronisées."
+  },
+  "settingsReadError": {
+    "message": "Impossible de lire les paramètres. La valeur par défaut est utilisée."
+  },
+  "invalidMode": {
+    "message": "Le mode sélectionné n’est pas valide."
+  },
+  "saveSuccess": {
+    "message": "Paramètres enregistrés et appliqués immédiatement."
+  },
+  "saveError": {
+    "message": "Impossible d’enregistrer. Réessayez plus tard."
+  },
+  "reactionLike": {
+    "message": "J’aime"
+  },
+  "reactionLove": {
+    "message": "J’adore"
+  },
+  "reactionCare": {
+    "message": "Solidaire"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wouah"
+  },
+  "reactionSad": {
+    "message": "Triste"
+  },
+  "reactionAngry": {
+    "message": "Grr"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Ajoutez une étoile à ce projet sur GitHub"
+  }
+}

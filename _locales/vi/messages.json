@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Ẩn cảm xúc trên Facebook"
+  },
+  "extensionDescription": {
+    "message": "Ẩn biểu tượng cảm xúc trong bài viết, bình luận và phản hồi trên Facebook."
+  },
+  "popupTitle": {
+    "message": "Ẩn cảm xúc trên Facebook"
+  },
+  "heading": {
+    "message": "Hiển thị cảm xúc Facebook"
+  },
+  "scopeDescription": {
+    "message": "Cài đặt này áp dụng cho bài viết, bình luận và phản hồi."
+  },
+  "statsHeading": {
+    "message": "Đã ẩn kể từ khi bắt đầu theo dõi"
+  },
+  "countUnit": {
+    "message": "biểu tượng"
+  },
+  "statsLoading": {
+    "message": "Đang tải số liệu tích lũy…"
+  },
+  "modeLabel": {
+    "message": "Chế độ hiển thị"
+  },
+  "modeLikeOnly": {
+    "message": "Chỉ hiển thị Thích (mặc định)"
+  },
+  "modeShowOne": {
+    "message": "Hiển thị cảm xúc phổ biến nhất"
+  },
+  "modeHideAll": {
+    "message": "Ẩn tất cả cảm xúc"
+  },
+  "modeDisabled": {
+    "message": "Tắt"
+  },
+  "saveButton": {
+    "message": "Lưu"
+  },
+  "statsEmpty": {
+    "message": "Chưa có biểu tượng cảm xúc nào bị ẩn."
+  },
+  "statsReadError": {
+    "message": "Không thể đọc số liệu đã đồng bộ."
+  },
+  "settingsReadError": {
+    "message": "Không thể đọc cài đặt. Đang dùng giá trị mặc định."
+  },
+  "invalidMode": {
+    "message": "Chế độ đã chọn không hợp lệ."
+  },
+  "saveSuccess": {
+    "message": "Đã lưu và áp dụng cài đặt ngay lập tức."
+  },
+  "saveError": {
+    "message": "Không thể lưu. Vui lòng thử lại sau."
+  },
+  "reactionLike": {
+    "message": "Thích"
+  },
+  "reactionLove": {
+    "message": "Yêu thích"
+  },
+  "reactionCare": {
+    "message": "Thương thương"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Buồn"
+  },
+  "reactionAngry": {
+    "message": "Phẫn nộ"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Tặng sao cho dự án này trên GitHub"
+  }
+}

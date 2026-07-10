@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebook-Reaktionen ausblenden"
+  },
+  "extensionDescription": {
+    "message": "Blendet Reaktionssymbole in Facebook-Beiträgen, Kommentaren und Antworten aus."
+  },
+  "popupTitle": {
+    "message": "Facebook-Reaktionen ausblenden"
+  },
+  "heading": {
+    "message": "Facebook-Reaktionen anzeigen"
+  },
+  "scopeDescription": {
+    "message": "Diese Einstellung gilt für Beiträge, Kommentare und Antworten."
+  },
+  "statsHeading": {
+    "message": "Seit Beginn der Zählung ausgeblendet"
+  },
+  "countUnit": {
+    "message": "Symbole"
+  },
+  "statsLoading": {
+    "message": "Kumulierte Statistik wird geladen…"
+  },
+  "modeLabel": {
+    "message": "Anzeigemodus"
+  },
+  "modeLikeOnly": {
+    "message": "Nur „Gefällt mir“ anzeigen (Standard)"
+  },
+  "modeShowOne": {
+    "message": "Beliebteste Reaktion anzeigen"
+  },
+  "modeHideAll": {
+    "message": "Alle Reaktionen ausblenden"
+  },
+  "modeDisabled": {
+    "message": "Deaktivieren"
+  },
+  "saveButton": {
+    "message": "Speichern"
+  },
+  "statsEmpty": {
+    "message": "Es wurden noch keine Reaktionssymbole ausgeblendet."
+  },
+  "statsReadError": {
+    "message": "Synchronisierte Statistik konnte nicht gelesen werden."
+  },
+  "settingsReadError": {
+    "message": "Einstellungen konnten nicht gelesen werden. Der Standard wird verwendet."
+  },
+  "invalidMode": {
+    "message": "Der ausgewählte Modus ist ungültig."
+  },
+  "saveSuccess": {
+    "message": "Einstellungen gespeichert und sofort angewendet."
+  },
+  "saveError": {
+    "message": "Speichern fehlgeschlagen. Bitte später erneut versuchen."
+  },
+  "reactionLike": {
+    "message": "Gefällt mir"
+  },
+  "reactionLove": {
+    "message": "Love"
+  },
+  "reactionCare": {
+    "message": "Umarmung"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Traurig"
+  },
+  "reactionAngry": {
+    "message": "Wütend"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Diesem Projekt auf GitHub einen Stern geben"
+  }
+}

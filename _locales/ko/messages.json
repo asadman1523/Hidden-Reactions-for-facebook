@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebook 공감 숨기기"
+  },
+  "extensionDescription": {
+    "message": "Facebook 게시물, 댓글 및 답글의 공감 아이콘을 숨깁니다."
+  },
+  "popupTitle": {
+    "message": "Facebook 공감 숨기기"
+  },
+  "heading": {
+    "message": "Facebook 공감 표시"
+  },
+  "scopeDescription": {
+    "message": "이 설정은 게시물, 댓글 및 답글에 적용됩니다."
+  },
+  "statsHeading": {
+    "message": "추적 시작 후 숨긴 수"
+  },
+  "countUnit": {
+    "message": "개"
+  },
+  "statsLoading": {
+    "message": "누적 통계를 불러오는 중…"
+  },
+  "modeLabel": {
+    "message": "표시 모드"
+  },
+  "modeLikeOnly": {
+    "message": "좋아요만 표시(기본값)"
+  },
+  "modeShowOne": {
+    "message": "가장 인기 있는 공감만 표시"
+  },
+  "modeHideAll": {
+    "message": "모든 공감 숨기기"
+  },
+  "modeDisabled": {
+    "message": "사용 안 함"
+  },
+  "saveButton": {
+    "message": "저장"
+  },
+  "statsEmpty": {
+    "message": "아직 숨긴 공감 아이콘이 없습니다."
+  },
+  "statsReadError": {
+    "message": "동기화된 통계를 읽을 수 없습니다."
+  },
+  "settingsReadError": {
+    "message": "설정을 읽을 수 없어 기본값을 사용합니다."
+  },
+  "invalidMode": {
+    "message": "선택한 모드가 올바르지 않습니다."
+  },
+  "saveSuccess": {
+    "message": "설정이 저장되어 즉시 적용되었습니다."
+  },
+  "saveError": {
+    "message": "저장할 수 없습니다. 나중에 다시 시도하세요."
+  },
+  "reactionLike": {
+    "message": "좋아요"
+  },
+  "reactionLove": {
+    "message": "최고예요"
+  },
+  "reactionCare": {
+    "message": "응원해요"
+  },
+  "reactionHaha": {
+    "message": "웃겨요"
+  },
+  "reactionWow": {
+    "message": "놀라워요"
+  },
+  "reactionSad": {
+    "message": "슬퍼요"
+  },
+  "reactionAngry": {
+    "message": "화나요"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "GitHub에서 이 프로젝트에 별표 달기"
+  }
+}

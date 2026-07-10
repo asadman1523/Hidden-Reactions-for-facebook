@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Skjul Facebook-reaktioner"
+  },
+  "extensionDescription": {
+    "message": "Skjuler reaktionsikoner i Facebook-opslag, kommentarer og svar."
+  },
+  "popupTitle": {
+    "message": "Skjul Facebook-reaktioner"
+  },
+  "heading": {
+    "message": "Visning af Facebook-reaktioner"
+  },
+  "scopeDescription": {
+    "message": "Denne indstilling gælder for opslag, kommentarer og svar."
+  },
+  "statsHeading": {
+    "message": "Skjult siden optællingen begyndte"
+  },
+  "countUnit": {
+    "message": "ikoner"
+  },
+  "statsLoading": {
+    "message": "Indlæser samlet statistik…"
+  },
+  "modeLabel": {
+    "message": "Visningstilstand"
+  },
+  "modeLikeOnly": {
+    "message": "Vis kun Synes godt om (standard)"
+  },
+  "modeShowOne": {
+    "message": "Vis den mest populære reaktion"
+  },
+  "modeHideAll": {
+    "message": "Skjul alle reaktioner"
+  },
+  "modeDisabled": {
+    "message": "Deaktiver"
+  },
+  "saveButton": {
+    "message": "Gem"
+  },
+  "statsEmpty": {
+    "message": "Der er endnu ikke skjult nogen reaktionsikoner."
+  },
+  "statsReadError": {
+    "message": "Den synkroniserede statistik kunne ikke læses."
+  },
+  "settingsReadError": {
+    "message": "Indstillingerne kunne ikke læses. Standardværdien bruges."
+  },
+  "invalidMode": {
+    "message": "Den valgte tilstand er ugyldig."
+  },
+  "saveSuccess": {
+    "message": "Indstillingerne er gemt og anvendt med det samme."
+  },
+  "saveError": {
+    "message": "Kunne ikke gemme. Prøv igen senere."
+  },
+  "reactionLike": {
+    "message": "Synes godt om"
+  },
+  "reactionLove": {
+    "message": "Elsker"
+  },
+  "reactionCare": {
+    "message": "Omsorg"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Ked af det"
+  },
+  "reactionAngry": {
+    "message": "Vred"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Giv projektet en stjerne på GitHub"
+  }
+}

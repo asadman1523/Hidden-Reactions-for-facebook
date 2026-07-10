@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebook-reacties verbergen"
+  },
+  "extensionDescription": {
+    "message": "Verbergt reactie-iconen bij Facebook-berichten, opmerkingen en antwoorden."
+  },
+  "popupTitle": {
+    "message": "Facebook-reacties verbergen"
+  },
+  "heading": {
+    "message": "Weergave van Facebook-reacties"
+  },
+  "scopeDescription": {
+    "message": "Deze instelling geldt voor berichten, opmerkingen en antwoorden."
+  },
+  "statsHeading": {
+    "message": "Verborgen sinds de telling begon"
+  },
+  "countUnit": {
+    "message": "iconen"
+  },
+  "statsLoading": {
+    "message": "Cumulatieve statistieken laden…"
+  },
+  "modeLabel": {
+    "message": "Weergavemodus"
+  },
+  "modeLikeOnly": {
+    "message": "Alleen Leuk weergeven (standaard)"
+  },
+  "modeShowOne": {
+    "message": "Populairste reactie weergeven"
+  },
+  "modeHideAll": {
+    "message": "Alle reacties verbergen"
+  },
+  "modeDisabled": {
+    "message": "Uitschakelen"
+  },
+  "saveButton": {
+    "message": "Opslaan"
+  },
+  "statsEmpty": {
+    "message": "Er zijn nog geen reactie-iconen verborgen."
+  },
+  "statsReadError": {
+    "message": "Gesynchroniseerde statistieken kunnen niet worden gelezen."
+  },
+  "settingsReadError": {
+    "message": "Instellingen kunnen niet worden gelezen. De standaard wordt gebruikt."
+  },
+  "invalidMode": {
+    "message": "De geselecteerde modus is ongeldig."
+  },
+  "saveSuccess": {
+    "message": "Instellingen opgeslagen en direct toegepast."
+  },
+  "saveError": {
+    "message": "Opslaan mislukt. Probeer het later opnieuw."
+  },
+  "reactionLike": {
+    "message": "Leuk"
+  },
+  "reactionLove": {
+    "message": "Geweldig"
+  },
+  "reactionCare": {
+    "message": "Sterkte"
+  },
+  "reactionHaha": {
+    "message": "Grappig"
+  },
+  "reactionWow": {
+    "message": "Verbluft"
+  },
+  "reactionSad": {
+    "message": "Verdrietig"
+  },
+  "reactionAngry": {
+    "message": "Boos"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Geef dit project een ster op GitHub"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Απόκρυψη αντιδράσεων Facebook"
+  },
+  "extensionDescription": {
+    "message": "Αποκρύπτει τα εικονίδια αντιδράσεων σε αναρτήσεις, σχόλια και απαντήσεις στο Facebook."
+  },
+  "popupTitle": {
+    "message": "Απόκρυψη αντιδράσεων Facebook"
+  },
+  "heading": {
+    "message": "Εμφάνιση αντιδράσεων Facebook"
+  },
+  "scopeDescription": {
+    "message": "Αυτή η ρύθμιση ισχύει για αναρτήσεις, σχόλια και απαντήσεις."
+  },
+  "statsHeading": {
+    "message": "Κρυμμένα από την έναρξη της καταμέτρησης"
+  },
+  "countUnit": {
+    "message": "εικονίδια"
+  },
+  "statsLoading": {
+    "message": "Φόρτωση συγκεντρωτικών στατιστικών…"
+  },
+  "modeLabel": {
+    "message": "Λειτουργία εμφάνισης"
+  },
+  "modeLikeOnly": {
+    "message": "Εμφάνιση μόνο Μου αρέσει (προεπιλογή)"
+  },
+  "modeShowOne": {
+    "message": "Εμφάνιση της δημοφιλέστερης αντίδρασης"
+  },
+  "modeHideAll": {
+    "message": "Απόκρυψη όλων των αντιδράσεων"
+  },
+  "modeDisabled": {
+    "message": "Απενεργοποίηση"
+  },
+  "saveButton": {
+    "message": "Αποθήκευση"
+  },
+  "statsEmpty": {
+    "message": "Δεν έχει αποκρυφτεί ακόμη κανένα εικονίδιο αντίδρασης."
+  },
+  "statsReadError": {
+    "message": "Δεν είναι δυνατή η ανάγνωση των συγχρονισμένων στατιστικών."
+  },
+  "settingsReadError": {
+    "message": "Δεν είναι δυνατή η ανάγνωση των ρυθμίσεων. Χρησιμοποιείται η προεπιλογή."
+  },
+  "invalidMode": {
+    "message": "Η επιλεγμένη λειτουργία δεν είναι έγκυρη."
+  },
+  "saveSuccess": {
+    "message": "Οι ρυθμίσεις αποθηκεύτηκαν και εφαρμόστηκαν αμέσως."
+  },
+  "saveError": {
+    "message": "Η αποθήκευση απέτυχε. Δοκιμάστε ξανά αργότερα."
+  },
+  "reactionLike": {
+    "message": "Μου αρέσει"
+  },
+  "reactionLove": {
+    "message": "Τέλειο"
+  },
+  "reactionCare": {
+    "message": "Νοιάζομαι"
+  },
+  "reactionHaha": {
+    "message": "Χαχα"
+  },
+  "reactionWow": {
+    "message": "Ουάου"
+  },
+  "reactionSad": {
+    "message": "Λυπάμαι"
+  },
+  "reactionAngry": {
+    "message": "Έλεος"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Δώστε αστέρι σε αυτό το έργο στο GitHub"
+  }
+}

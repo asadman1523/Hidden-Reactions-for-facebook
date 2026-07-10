@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Facebook प्रतिक्रिया लपवा"
+  },
+  "extensionDescription": {
+    "message": "Facebook पोस्ट, टिप्पण्या आणि उत्तरांमधील प्रतिक्रिया चिन्हे लपवते."
+  },
+  "popupTitle": {
+    "message": "Facebook प्रतिक्रिया लपवा"
+  },
+  "heading": {
+    "message": "Facebook प्रतिक्रिया प्रदर्शन"
+  },
+  "scopeDescription": {
+    "message": "हे सेटिंग पोस्ट, टिप्पण्या आणि उत्तरांवर लागू होते."
+  },
+  "statsHeading": {
+    "message": "मोजणी सुरू झाल्यापासून लपवलेली"
+  },
+  "countUnit": {
+    "message": "चिन्हे"
+  },
+  "statsLoading": {
+    "message": "एकत्रित आकडेवारी लोड होत आहे…"
+  },
+  "modeLabel": {
+    "message": "प्रदर्शन मोड"
+  },
+  "modeLikeOnly": {
+    "message": "फक्त लाइक दाखवा (डीफॉल्ट)"
+  },
+  "modeShowOne": {
+    "message": "सर्वाधिक लोकप्रिय प्रतिक्रिया दाखवा"
+  },
+  "modeHideAll": {
+    "message": "सर्व प्रतिक्रिया लपवा"
+  },
+  "modeDisabled": {
+    "message": "बंद करा"
+  },
+  "saveButton": {
+    "message": "जतन करा"
+  },
+  "statsEmpty": {
+    "message": "अद्याप कोणतेही प्रतिक्रिया चिन्ह लपवलेले नाही."
+  },
+  "statsReadError": {
+    "message": "सिंक केलेली आकडेवारी वाचता आली नाही."
+  },
+  "settingsReadError": {
+    "message": "सेटिंग वाचता आले नाही. डीफॉल्ट वापरले जात आहे."
+  },
+  "invalidMode": {
+    "message": "निवडलेला मोड अवैध आहे."
+  },
+  "saveSuccess": {
+    "message": "सेटिंग जतन करून लगेच लागू केले."
+  },
+  "saveError": {
+    "message": "जतन करता आले नाही. नंतर पुन्हा प्रयत्न करा."
+  },
+  "reactionLike": {
+    "message": "लाइक"
+  },
+  "reactionLove": {
+    "message": "लव्ह"
+  },
+  "reactionCare": {
+    "message": "केअर"
+  },
+  "reactionHaha": {
+    "message": "हाहा"
+  },
+  "reactionWow": {
+    "message": "व्वा"
+  },
+  "reactionSad": {
+    "message": "दुःखी"
+  },
+  "reactionAngry": {
+    "message": "राग"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "GitHub वर या प्रकल्पाला स्टार द्या"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "Skryť reakcie na Facebooku"
+  },
+  "extensionDescription": {
+    "message": "Skryje ikony reakcií v príspevkoch, komentároch a odpovediach na Facebooku."
+  },
+  "popupTitle": {
+    "message": "Skryť reakcie na Facebooku"
+  },
+  "heading": {
+    "message": "Zobrazenie reakcií na Facebooku"
+  },
+  "scopeDescription": {
+    "message": "Toto nastavenie platí pre príspevky, komentáre a odpovede."
+  },
+  "statsHeading": {
+    "message": "Skryté od začiatku počítania"
+  },
+  "countUnit": {
+    "message": "ikôn"
+  },
+  "statsLoading": {
+    "message": "Načítavajú sa súhrnné štatistiky…"
+  },
+  "modeLabel": {
+    "message": "Režim zobrazenia"
+  },
+  "modeLikeOnly": {
+    "message": "Zobraziť iba Páči sa mi to (predvolené)"
+  },
+  "modeShowOne": {
+    "message": "Zobraziť najobľúbenejšiu reakciu"
+  },
+  "modeHideAll": {
+    "message": "Skryť všetky reakcie"
+  },
+  "modeDisabled": {
+    "message": "Zakázať"
+  },
+  "saveButton": {
+    "message": "Uložiť"
+  },
+  "statsEmpty": {
+    "message": "Zatiaľ nebola skrytá žiadna ikona reakcie."
+  },
+  "statsReadError": {
+    "message": "Synchronizované štatistiky sa nedajú načítať."
+  },
+  "settingsReadError": {
+    "message": "Nastavenia sa nedajú načítať. Používa sa predvolená hodnota."
+  },
+  "invalidMode": {
+    "message": "Vybraný režim nie je platný."
+  },
+  "saveSuccess": {
+    "message": "Nastavenia boli uložené a ihneď použité."
+  },
+  "saveError": {
+    "message": "Uloženie zlyhalo. Skúste to neskôr."
+  },
+  "reactionLike": {
+    "message": "Páči sa mi to"
+  },
+  "reactionLove": {
+    "message": "Super"
+  },
+  "reactionCare": {
+    "message": "Podpora"
+  },
+  "reactionHaha": {
+    "message": "Haha"
+  },
+  "reactionWow": {
+    "message": "Wow"
+  },
+  "reactionSad": {
+    "message": "Je mi to ľúto"
+  },
+  "reactionAngry": {
+    "message": "Hnevá ma to"
+  },
+  "githubStarButton": {
+    "message": "★ GitHub"
+  },
+  "githubStarTitle": {
+    "message": "Označte tento projekt hviezdičkou na GitHube"
+  }
+}
