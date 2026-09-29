@@ -100,11 +100,12 @@
 
   let currentMode = DEFAULT_MODE;
   let observerIsRunning = false;
-  let scanTimer = null;
+  let scanFrame = null;
   let lastPageWasSupported = null;
   let statsFlushTimer = null;
   let activeStatsOperation = null;
   const pendingRoots = new Set();
+  const pendingRestoreRoots = new Set();
   const pendingReactionDeltas = new Map();
   const detachedStatsOperations = new Map();
   const knownReactionsBySource = new Map();
@@ -117,7 +118,7 @@
 
     for (const mutation of mutations) {
       if (mutation.type === "attributes") {
-        const managedRoot = restoreManagedBranch(mutation.target);
+        const managedRoot = queueManagedBranchRestore(mutation.target);
         if (managedRoot) {
           enqueueScan(managedRoot);
         } else if (
@@ -676,7 +677,7 @@
     );
   }
 
-  function restoreManagedBranch(element) {
+  function queueManagedBranchRestore(element) {
     const isInsideManagedSummary = Boolean(element.closest(MANAGED_MARKER_SELECTOR));
     const directlyContainsManagedContent = containsManagedContent(element);
 
@@ -696,7 +697,7 @@
     }
 
     if (highestManagedRoot) {
-      restoreWithin(highestManagedRoot);
+      pendingRestoreRoots.add(highestManagedRoot);
     }
 
     return highestManagedRoot;
@@ -757,7 +758,7 @@
       if (isPostReactionSummary(element)) {
         applyPostMode(element);
       } else if (element.classList.contains(MANAGED_POST_CLASS)) {
-        const managedRoot = restoreManagedBranch(element);
+        const managedRoot = queueManagedBranchRestore(element);
         if (managedRoot) {
           enqueueScan(managedRoot);
         }
@@ -768,7 +769,7 @@
       if (isCommentReactionSummary(element)) {
         applyCommentMode(element);
       } else if (element.classList.contains(MANAGED_COMMENT_CLASS)) {
-        const managedRoot = restoreManagedBranch(element);
+        const managedRoot = queueManagedBranchRestore(element);
         if (managedRoot) {
           enqueueScan(managedRoot);
         }
@@ -777,10 +778,14 @@
   }
 
   function flushScans() {
-    scanTimer = null;
+    scanFrame = null;
     const roots = Array.from(pendingRoots);
+    const restoreRoots = Array.from(pendingRestoreRoots);
     pendingRoots.clear();
+    pendingRestoreRoots.clear();
 
+    // Restore and reapply in the same frame so managed icons never flash between scans.
+    restoreRoots.forEach(restoreWithin);
     roots.forEach(scan);
   }
 
@@ -814,8 +819,8 @@
       pendingRoots.add(root);
     }
 
-    if (scanTimer === null) {
-      scanTimer = window.setTimeout(flushScans, 80);
+    if (scanFrame === null) {
+      scanFrame = window.requestAnimationFrame(flushScans);
     }
   }
 
@@ -824,7 +829,8 @@
       return;
     }
 
-    observer.observe(document.documentElement, {
+    // documentElement may not exist yet when injected at document_start.
+    observer.observe(document, {
       childList: true,
       subtree: true,
       attributes: true,
@@ -867,10 +873,11 @@
     currentMode = mode;
     lastPageWasSupported = null;
     pendingRoots.clear();
+    pendingRestoreRoots.clear();
 
-    if (scanTimer !== null) {
-      window.clearTimeout(scanTimer);
-      scanTimer = null;
+    if (scanFrame !== null) {
+      window.cancelAnimationFrame(scanFrame);
+      scanFrame = null;
     }
 
     restoreAll();

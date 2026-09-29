@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
-  "version": "9.5.1",
+  "version": "9.5.2",
   "minimum_chrome_version": "99",
   "default_locale": "en",
   "action": {
@@ -21,7 +21,7 @@
       "matches": [
         "https://www.facebook.com/*"
       ],
-      "run_at": "document_idle",
+      "run_at": "document_start",
       "css": [
         "content.css"
       ],
